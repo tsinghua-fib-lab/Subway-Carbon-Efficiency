@@ -1,0 +1,19 @@
+2024-06-27 10:21:32,341 - root - INFO - City: Suzhou
+2024-06-27 10:21:32,341 - root - INFO - Parking fee: 20
+2024-06-27 10:30:07,219 - root - INFO - Year: 2019, Month: 6
+2024-06-27 10:50:31,455 - root - INFO - count, count_true: 214889, 927
+2024-06-27 10:50:31,456 - root - INFO - len args: 225074, missing rate: 0.04525178385775345
+2024-06-27 10:50:32,030 - root - INFO - count, count_true: 220886, 1287
+2024-06-27 10:50:32,031 - root - INFO - len args: 231559, missing rate: 0.04609192473624433
+2024-06-27 10:51:30,074 - root - INFO - count, count_true: 226236, 1340
+2024-06-27 10:51:30,077 - root - INFO - len args: 237144, missing rate: 0.04599736868737982
+2024-06-27 10:52:37,304 - root - INFO - count, count_true: 229608, 19220
+2024-06-27 10:52:37,306 - root - INFO - len args: 240816, missing rate: 0.04654175802272274
+2024-06-27 10:52:44,033 - root - INFO - count, count_true: 211008, 913
+2024-06-27 10:52:44,035 - root - INFO - len args: 220900, missing rate: 0.044780443639655956
+2024-06-27 10:52:59,328 - root - INFO - count, count_true: 223401, 1314
+2024-06-27 10:52:59,329 - root - INFO - len args: 234068, missing rate: 0.04557222687424167
+2024-06-27 10:53:11,893 - root - INFO - count, count_true: 232182, 19405
+2024-06-27 10:53:11,894 - root - INFO - len args: 243466, missing rate: 0.046347333919315226
+2024-06-27 10:53:14,601 - root - INFO - count, count_true: 218758, 1276
+2024-06-27 10:53:14,603 - root - INFO - len args: 229225, missing rate: 0.045662558621441814

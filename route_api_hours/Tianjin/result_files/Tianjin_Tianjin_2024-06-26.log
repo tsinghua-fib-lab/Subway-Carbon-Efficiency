@@ -1,0 +1,35 @@
+2024-06-26 23:47:18,928 - root - INFO - City: Tianjin
+2024-06-26 23:47:18,929 - root - INFO - Parking fee: 20
+2024-06-26 23:56:05,448 - root - INFO - Year: 2019, Month: 6
+2024-06-27 00:18:52,305 - root - INFO - count, count_true: 170117, 9725
+2024-06-27 00:18:52,306 - root - INFO - len args: 208271, missing rate: 0.18319401164828517
+2024-06-27 00:19:50,409 - root - INFO - count, count_true: 187708, 34046
+2024-06-27 00:19:50,411 - root - INFO - len args: 230263, missing rate: 0.18481041244142568
+2024-06-27 00:20:38,955 - root - INFO - count, count_true: 173909, 9828
+2024-06-27 00:20:38,965 - root - INFO - len args: 213022, missing rate: 0.18361014355324803
+2024-06-27 00:20:54,874 - root - INFO - count, count_true: 178623, 10810
+2024-06-27 00:20:54,883 - root - INFO - len args: 219233, missing rate: 0.1852367116264431
+2024-06-27 00:21:10,679 - root - INFO - count, count_true: 196092, 35409
+2024-06-27 00:21:10,681 - root - INFO - len args: 240587, missing rate: 0.18494349237489974
+2024-06-27 00:21:40,052 - root - INFO - count, count_true: 182488, 22566
+2024-06-27 00:21:40,053 - root - INFO - len args: 223817, missing rate: 0.18465532108821045
+2024-06-27 00:22:08,554 - root - INFO - count, count_true: 192189, 34589
+2024-06-27 00:22:08,556 - root - INFO - len args: 235806, missing rate: 0.18496984809546832
+2024-06-27 00:23:35,835 - root - INFO - count, count_true: 201092, 44456
+2024-06-27 00:23:35,836 - root - INFO - len args: 246665, missing rate: 0.18475665376117406
+2024-06-27 00:30:30,804 - root - INFO - count, count_true: 205789, 45435
+2024-06-27 00:30:30,806 - root - INFO - len args: 252509, missing rate: 0.1850231080872365
+2024-06-27 00:31:31,430 - root - INFO - count, count_true: 173909, 10554
+2024-06-27 00:31:31,431 - root - INFO - len args: 213022, missing rate: 0.18361014355324803
+2024-06-27 00:32:13,339 - root - INFO - count, count_true: 178623, 14461
+2024-06-27 00:32:13,340 - root - INFO - len args: 219233, missing rate: 0.1852367116264431
+2024-06-27 00:32:28,438 - root - INFO - count, count_true: 210000, 66446
+2024-06-27 00:32:28,439 - root - INFO - len args: 257641, missing rate: 0.18491233926277262
+2024-06-27 00:33:21,182 - root - INFO - count, count_true: 196092, 36409
+2024-06-27 00:33:21,183 - root - INFO - len args: 240587, missing rate: 0.18494349237489974
+2024-06-27 00:33:33,742 - root - INFO - count, count_true: 182488, 32095
+2024-06-27 00:33:33,743 - root - INFO - len args: 223817, missing rate: 0.18465532108821045
+2024-06-27 00:38:04,933 - root - INFO - count, count_true: 214237, 70273
+2024-06-27 00:38:04,945 - root - INFO - len args: 263104, missing rate: 0.18573263804427145
+2024-06-27 00:40:10,983 - root - INFO - count, count_true: 214237, 70273
+2024-06-27 00:40:10,992 - root - INFO - len args: 263104, missing rate: 0.18573263804427145

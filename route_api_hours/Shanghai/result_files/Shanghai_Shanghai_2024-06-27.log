@@ -1,0 +1,38 @@
+2024-06-27 16:25:03,368 - root - INFO - City: Shanghai
+2024-06-27 16:25:03,369 - root - INFO - Parking fee: 20
+2024-06-27 16:59:07,765 - root - INFO - count, count_true: 350544, 128516
+2024-06-27 16:59:14,229 - root - INFO - count, count_true: 329452, 120435
+2024-06-27 16:59:20,359 - root - INFO - count, count_true: 366700, 134535
+2024-06-27 17:01:40,044 - root - INFO - count, count_true: 358799, 131607
+2024-06-27 17:05:16,801 - root - INFO - count, count_true: 371376, 136328
+2024-06-27 17:05:29,582 - root - INFO - count, count_true: 342491, 125483
+2024-06-27 17:05:44,312 - root - INFO - count, count_true: 379040, 139203
+2024-06-27 17:07:05,529 - root - INFO - count, count_true: 335295, 122825
+2024-06-27 18:20:47,750 - root - INFO - City: Shanghai
+2024-06-27 18:20:47,751 - root - INFO - Parking fee: 20
+2024-06-27 18:21:13,187 - root - INFO - City: Shanghai
+2024-06-27 18:21:13,188 - root - INFO - Parking fee: 20
+2024-06-27 18:44:24,323 - root - INFO - count, count_true: 329452, 120435
+2024-06-27 18:44:33,753 - root - INFO - count, count_true: 342491, 125483
+2024-06-27 18:44:43,985 - root - INFO - count, count_true: 350544, 128516
+2024-06-27 18:44:49,463 - root - INFO - count, count_true: 358799, 131607
+2024-06-27 18:44:51,001 - root - INFO - count, count_true: 335295, 122825
+2024-06-27 18:56:00,776 - root - INFO - count, count_true: 401931, 147667
+2024-06-27 18:56:01,531 - root - INFO - count, count_true: 401931, 147667
+2024-06-27 18:56:04,295 - root - INFO - count, count_true: 401931, 147667
+2024-06-27 20:02:27,522 - root - INFO - City: Shanghai
+2024-06-27 20:02:27,532 - root - INFO - Parking fee: 20
+2024-06-27 20:35:00,390 - root - INFO - count, count_true: 329452, 120435
+2024-06-27 20:35:10,449 - root - INFO - count, count_true: 342491, 125483
+2024-06-27 20:35:11,965 - root - INFO - count, count_true: 335295, 122825
+2024-06-27 20:35:24,251 - root - INFO - count, count_true: 350544, 128516
+2024-06-27 20:35:25,163 - root - INFO - count, count_true: 358799, 131607
+2024-06-27 20:42:39,237 - root - INFO - count, count_true: 379040, 139203
+2024-06-27 20:42:44,768 - root - INFO - count, count_true: 371376, 136328
+2024-06-27 20:42:45,850 - root - INFO - count, count_true: 386944, 142120
+2024-06-27 20:42:49,550 - root - INFO - count, count_true: 366700, 134535
+2024-06-27 20:43:16,332 - root - INFO - count, count_true: 394837, 145020
+2024-06-27 20:50:17,144 - root - INFO - count, count_true: 401931, 147667
+2024-06-27 20:50:20,882 - root - INFO - count, count_true: 401931, 147667
+2024-06-27 20:50:28,615 - root - INFO - count, count_true: 401931, 147667
+2024-06-27 20:50:30,961 - root - INFO - count, count_true: 401931, 147667

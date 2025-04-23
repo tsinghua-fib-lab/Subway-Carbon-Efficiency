@@ -1,0 +1,44 @@
+2024-06-28 21:35:55,457 - root - INFO - City: Dalian
+2024-06-28 21:35:55,457 - root - INFO - Parking fee: 20
+2024-06-28 21:36:23,193 - root - INFO - Year: 2019, Month: 6
+2024-06-28 21:37:15,154 - root - INFO - remove_subway_list: ['地铁1号线', '地铁2号线']
+2024-06-28 21:38:11,653 - root - INFO - count, count_true: 82482, 2678
+2024-06-28 21:38:12,668 - root - INFO - count, count_true: 87134, 2845
+2024-06-28 21:38:13,209 - root - INFO - count, count_true: 85814, 2817
+2024-06-28 21:38:13,395 - root - INFO - count, count_true: 82641, 2720
+2024-06-28 21:38:13,839 - root - INFO - count, count_true: 85219, 2777
+2024-06-28 21:38:15,101 - root - INFO - count, count_true: 89307, 3933
+2024-06-28 21:38:16,056 - root - INFO - count, count_true: 90268, 6587
+2024-06-28 21:38:16,243 - root - INFO - count, count_true: 91332, 6648
+2024-06-28 21:39:53,262 - root - INFO - count, count_true: 87134, 3940
+2024-06-28 21:39:54,227 - root - INFO - count, count_true: 92688, 7061
+2024-06-28 21:39:55,773 - root - INFO - count, count_true: 89307, 5705
+2024-06-28 21:39:56,360 - root - INFO - count, count_true: 91796, 7022
+2024-06-28 21:39:57,736 - root - INFO - count, count_true: 93387, 7094
+2024-06-28 21:39:58,519 - root - INFO - count, count_true: 93387, 7094
+2024-06-28 21:39:58,834 - root - INFO - count, count_true: 91332, 7004
+2024-06-28 21:39:59,195 - root - INFO - count, count_true: 93387, 9271
+2024-06-28 21:41:42,402 - root - INFO - count, count_true: 89307, 6526
+2024-06-28 21:41:44,148 - root - INFO - count, count_true: 93387, 10860
+2024-06-28 21:41:47,048 - root - INFO - count, count_true: 93387, 10860
+2024-06-28 21:43:26,592 - root - INFO - count, count_true: 93387, 11562
+2024-06-28 21:45:53,829 - root - INFO - count, count_true: 91332, 5259
+2024-06-28 21:45:54,206 - root - INFO - count, count_true: 87134, 2845
+2024-06-28 21:45:54,637 - root - INFO - count, count_true: 85814, 2817
+2024-06-28 21:45:54,676 - root - INFO - count, count_true: 82482, 2678
+2024-06-28 21:45:54,758 - root - INFO - count, count_true: 82641, 2720
+2024-06-28 21:45:55,229 - root - INFO - count, count_true: 85219, 2777
+2024-06-28 21:45:55,339 - root - INFO - count, count_true: 89307, 3933
+2024-06-28 21:45:55,394 - root - INFO - count, count_true: 90268, 5201
+2024-06-28 21:47:38,450 - root - INFO - count, count_true: 87134, 3940
+2024-06-28 21:47:40,460 - root - INFO - count, count_true: 89307, 3994
+2024-06-28 21:47:40,654 - root - INFO - count, count_true: 92688, 7786
+2024-06-28 21:47:40,929 - root - INFO - count, count_true: 93387, 7829
+2024-06-28 21:47:41,681 - root - INFO - count, count_true: 91796, 7741
+2024-06-28 21:47:42,311 - root - INFO - count, count_true: 93387, 7829
+2024-06-28 21:47:43,429 - root - INFO - count, count_true: 91332, 7744
+2024-06-28 21:47:43,627 - root - INFO - count, count_true: 93387, 9984
+2024-06-28 21:49:31,446 - root - INFO - count, count_true: 89307, 5194
+2024-06-28 21:49:32,651 - root - INFO - count, count_true: 93387, 10161
+2024-06-28 21:49:35,933 - root - INFO - count, count_true: 93387, 10161
+2024-06-28 21:51:17,703 - root - INFO - count, count_true: 93387, 10893

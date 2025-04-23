@@ -1,0 +1,5 @@
+2024-09-13 22:56:42,502 - root - INFO - City: Beijing
+2024-09-13 22:56:42,502 - root - INFO - Parking fee: 20
+2024-09-13 22:59:23,141 - root - INFO - Year: 2019, Month: 6
+2024-09-13 23:04:53,004 - root - INFO - count, count_true: 330407, 150969
+2024-09-13 23:04:53,005 - root - INFO - len args: 386631, missing rate: 0.14542031032172795

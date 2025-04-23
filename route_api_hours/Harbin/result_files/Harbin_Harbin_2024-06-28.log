@@ -1,0 +1,36 @@
+2024-06-28 15:41:06,539 - root - INFO - City: Harbin
+2024-06-28 15:41:06,540 - root - INFO - Parking fee: 20
+2024-06-28 15:42:21,851 - root - INFO - Year: 2019, Month: 6
+2024-06-28 15:44:00,720 - root - INFO - remove_subway_list: ['地铁1号线', '地铁3号线']
+2024-06-28 15:45:03,558 - root - INFO - count, count_true: 66584, 0
+2024-06-28 15:45:08,739 - root - INFO - count, count_true: 66959, 0
+2024-06-28 15:45:08,775 - root - INFO - count, count_true: 68537, 0
+2024-06-28 15:45:09,038 - root - INFO - count, count_true: 69067, 0
+2024-06-28 15:45:09,258 - root - INFO - count, count_true: 67501, 0
+2024-06-28 15:45:09,422 - root - INFO - count, count_true: 69911, 0
+2024-06-28 15:45:09,908 - root - INFO - count, count_true: 69361, 0
+2024-06-28 15:45:12,720 - root - INFO - count, count_true: 70459, 3
+2024-06-28 15:46:53,267 - root - INFO - count, count_true: 70459, 3
+2024-06-28 15:46:58,435 - root - INFO - count, count_true: 70459, 15422
+2024-06-28 15:47:00,098 - root - INFO - count, count_true: 69911, 3
+2024-06-28 15:47:01,823 - root - INFO - count, count_true: 70459, 15422
+2024-06-28 15:47:03,723 - root - INFO - count, count_true: 69067, 0
+2024-06-28 15:48:36,973 - root - INFO - count, count_true: 70459, 5360
+2024-06-28 15:48:59,394 - root - INFO - count, count_true: 70459, 17399
+2024-06-28 15:50:20,049 - root - INFO - count, count_true: 70459, 15422
+2024-06-28 15:52:43,735 - root - INFO - count, count_true: 68537, 2247
+2024-06-28 15:52:43,865 - root - INFO - count, count_true: 66584, 2183
+2024-06-28 15:52:44,393 - root - INFO - count, count_true: 69911, 2392
+2024-06-28 15:52:44,448 - root - INFO - count, count_true: 67501, 2208
+2024-06-28 15:52:45,097 - root - INFO - count, count_true: 69361, 2369
+2024-06-28 15:52:45,161 - root - INFO - count, count_true: 66959, 2173
+2024-06-28 15:52:45,358 - root - INFO - count, count_true: 69067, 2265
+2024-06-28 15:52:45,862 - root - INFO - count, count_true: 70459, 4834
+2024-06-28 15:54:35,782 - root - INFO - count, count_true: 70459, 4834
+2024-06-28 15:54:36,606 - root - INFO - count, count_true: 69911, 4812
+2024-06-28 15:54:37,472 - root - INFO - count, count_true: 70459, 13717
+2024-06-28 15:54:39,230 - root - INFO - count, count_true: 70459, 13717
+2024-06-28 15:54:39,365 - root - INFO - count, count_true: 69067, 2362
+2024-06-28 15:56:21,873 - root - INFO - count, count_true: 70459, 11947
+2024-06-28 15:56:23,333 - root - INFO - count, count_true: 70459, 14613
+2024-06-28 15:58:13,208 - root - INFO - count, count_true: 70459, 13717

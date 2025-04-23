@@ -1,0 +1,32 @@
+2024-06-27 04:11:35,312 - root - INFO - City: Wenzhou
+2024-06-27 04:11:35,313 - root - INFO - Parking fee: 20
+2024-06-27 04:31:24,270 - root - INFO - count, count_true: 130261, 0
+2024-06-27 04:31:27,455 - root - INFO - count, count_true: 139637, 0
+2024-06-27 04:31:27,561 - root - INFO - count, count_true: 135526, 0
+2024-06-27 04:31:27,811 - root - INFO - count, count_true: 136750, 0
+2024-06-27 04:31:27,820 - root - INFO - count, count_true: 133331, 0
+2024-06-27 04:31:28,432 - root - INFO - count, count_true: 131800, 0
+2024-06-27 04:31:29,985 - root - INFO - count, count_true: 138495, 0
+2024-06-27 04:31:33,876 - root - INFO - count, count_true: 140662, 0
+2024-06-27 04:38:04,523 - root - INFO - count, count_true: 145207, 0
+2024-06-27 04:38:06,788 - root - INFO - count, count_true: 145207, 0
+2024-06-27 04:38:08,352 - root - INFO - count, count_true: 143644, 0
+2024-06-27 04:38:47,433 - root - INFO - count, count_true: 142628, 0
+2024-06-27 04:38:56,649 - root - INFO - count, count_true: 145207, 0
+2024-06-27 04:38:58,704 - root - INFO - count, count_true: 145207, 0
+2024-06-27 06:07:28,178 - root - INFO - City: Wenzhou
+2024-06-27 06:07:28,199 - root - INFO - Parking fee: 20
+2024-06-27 06:21:19,367 - root - INFO - count, count_true: 130261, 0
+2024-06-27 06:21:30,351 - root - INFO - count, count_true: 133331, 0
+2024-06-27 06:21:44,768 - root - INFO - count, count_true: 140662, 0
+2024-06-27 06:21:51,590 - root - INFO - count, count_true: 138495, 0
+2024-06-27 06:23:56,920 - root - INFO - count, count_true: 135526, 0
+2024-06-27 06:23:57,148 - root - INFO - count, count_true: 139637, 0
+2024-06-27 06:23:57,372 - root - INFO - count, count_true: 131800, 0
+2024-06-27 06:23:57,606 - root - INFO - count, count_true: 136750, 0
+2024-06-27 06:26:19,744 - root - INFO - count, count_true: 142628, 0
+2024-06-27 06:26:32,589 - root - INFO - count, count_true: 143644, 0
+2024-06-27 06:27:03,453 - root - INFO - count, count_true: 145207, 0
+2024-06-27 06:27:13,835 - root - INFO - count, count_true: 145207, 0
+2024-06-27 06:28:42,478 - root - INFO - count, count_true: 145207, 0
+2024-06-27 06:28:56,923 - root - INFO - count, count_true: 145207, 0

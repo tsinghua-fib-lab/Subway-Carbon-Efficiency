@@ -1,0 +1,16 @@
+2024-06-28 18:23:30,333 - root - INFO - City: Jinan
+2024-06-28 18:23:30,334 - root - INFO - Parking fee: 20
+2024-06-28 18:28:07,682 - root - INFO - Year: 2019, Month: 6
+2024-06-28 18:31:40,660 - root - INFO - remove_subway_list: ['轨道交通1号线', '轨道交通3号线']
+2024-06-28 18:35:23,645 - root - INFO - count, count_true: 136745, 0
+2024-06-28 18:35:30,166 - root - INFO - count, count_true: 138035, 2554
+2024-06-28 18:35:31,625 - root - INFO - count, count_true: 138035, 2554
+2024-06-28 18:35:39,344 - root - INFO - count, count_true: 138035, 22075
+2024-06-28 18:36:58,564 - root - INFO - count, count_true: 138035, 22075
+2024-06-28 18:40:31,449 - root - INFO - count, count_true: 138035, 22075
+2024-06-28 18:46:06,485 - root - INFO - count, count_true: 138035, 1357
+2024-06-28 18:46:11,017 - root - INFO - count, count_true: 138035, 19804
+2024-06-28 18:46:12,944 - root - INFO - count, count_true: 138035, 1357
+2024-06-28 18:46:13,479 - root - INFO - count, count_true: 138035, 19804
+2024-06-28 18:46:17,843 - root - INFO - count, count_true: 136745, 1349
+2024-06-28 18:50:45,722 - root - INFO - count, count_true: 138035, 19804

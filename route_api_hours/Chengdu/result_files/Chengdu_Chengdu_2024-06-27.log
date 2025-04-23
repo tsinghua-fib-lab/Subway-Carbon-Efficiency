@@ -1,0 +1,746 @@
+2024-06-27 11:26:21,673 - root - INFO - City: Chengdu
+2024-06-27 11:26:21,674 - root - INFO - Parking fee: 20
+2024-06-27 11:46:48,051 - root - INFO - Year: 2019, Month: 6
+2024-06-27 12:11:14,459 - root - INFO - count, count_true: 257980, 25
+2024-06-27 12:11:14,460 - root - INFO - len args: 261507, missing rate: 0.013487210667400872
+2024-06-27 12:11:15,715 - root - INFO - count, count_true: 261305, 25
+2024-06-27 12:11:15,716 - root - INFO - len args: 264833, missing rate: 0.013321602670362077
+2024-06-27 12:11:27,495 - root - INFO - count, count_true: 267378, 25
+2024-06-27 12:11:27,496 - root - INFO - len args: 271049, missing rate: 0.013543676604599169
+2024-06-27 12:11:44,512 - root - INFO - count, count_true: 273229, 625
+2024-06-27 12:11:44,513 - root - INFO - len args: 276940, missing rate: 0.013400014443561783
+2024-06-27 12:11:58,369 - root - INFO - count, count_true: 289581, 9486
+2024-06-27 12:11:58,370 - root - INFO - len args: 293217, missing rate: 0.012400372420425828
+2024-06-27 12:12:03,737 - root - INFO - count, count_true: 295210, 11290
+2024-06-27 12:12:03,738 - root - INFO - len args: 298829, missing rate: 0.012110605061757727
+2024-06-27 12:12:22,565 - root - INFO - count, count_true: 284113, 7993
+2024-06-27 12:12:22,565 - root - INFO - len args: 287862, missing rate: 0.013023601586871486
+2024-06-27 12:14:02,439 - root - INFO - count, count_true: 279164, 4584
+2024-06-27 12:14:02,444 - root - INFO - len args: 282858, missing rate: 0.01305955638518267
+2024-06-27 12:20:41,888 - root - INFO - count, count_true: 267378, 625
+2024-06-27 12:20:41,889 - root - INFO - len args: 271049, missing rate: 0.013543676604599169
+2024-06-27 12:21:53,381 - root - INFO - count, count_true: 273229, 4473
+2024-06-27 12:21:53,382 - root - INFO - len args: 276940, missing rate: 0.013400014443561783
+2024-06-27 12:22:24,410 - root - INFO - count, count_true: 305169, 61022
+2024-06-27 12:22:24,411 - root - INFO - len args: 308930, missing rate: 0.012174278962871848
+2024-06-27 12:22:24,489 - root - INFO - count, count_true: 300562, 37046
+2024-06-27 12:22:24,490 - root - INFO - len args: 304276, missing rate: 0.012206023478683827
+2024-06-27 12:23:40,677 - root - INFO - count, count_true: 289581, 11116
+2024-06-27 12:23:40,678 - root - INFO - len args: 293217, missing rate: 0.012400372420425828
+2024-06-27 12:23:54,107 - root - INFO - count, count_true: 284113, 8076
+2024-06-27 12:23:54,108 - root - INFO - len args: 287862, missing rate: 0.013023601586871486
+2024-06-27 12:24:01,987 - root - INFO - count, count_true: 295210, 25580
+2024-06-27 12:24:01,988 - root - INFO - len args: 298829, missing rate: 0.012110605061757727
+2024-06-27 12:26:16,645 - root - INFO - count, count_true: 279164, 7921
+2024-06-27 12:26:16,646 - root - INFO - len args: 282858, missing rate: 0.01305955638518267
+2024-06-27 12:31:13,615 - root - INFO - count, count_true: 310154, 99836
+2024-06-27 12:31:13,616 - root - INFO - len args: 314039, missing rate: 0.01237107493018383
+2024-06-27 12:32:20,438 - root - INFO - count, count_true: 300562, 39593
+2024-06-27 12:32:20,440 - root - INFO - len args: 304276, missing rate: 0.012206023478683827
+2024-06-27 12:32:33,933 - root - INFO - count, count_true: 310154, 163864
+2024-06-27 12:32:33,934 - root - INFO - len args: 314039, missing rate: 0.01237107493018383
+2024-06-27 12:32:38,519 - root - INFO - count, count_true: 310154, 163864
+2024-06-27 12:32:38,520 - root - INFO - len args: 314039, missing rate: 0.01237107493018383
+2024-06-27 12:33:14,722 - root - INFO - count, count_true: 310154, 163864
+2024-06-27 12:33:14,723 - root - INFO - len args: 314039, missing rate: 0.01237107493018383
+2024-06-27 12:33:26,443 - root - INFO - count, count_true: 295210, 25785
+2024-06-27 12:33:26,449 - root - INFO - len args: 298829, missing rate: 0.012110605061757727
+2024-06-27 12:41:30,718 - root - INFO - count, count_true: 310154, 101477
+2024-06-27 12:41:30,719 - root - INFO - len args: 314039, missing rate: 0.01237107493018383
+2024-06-27 12:43:57,053 - root - INFO - Factual data collection finished, {2010: {'(10, 11, 12)': {'traffic_num': [97420.61673173061, 2300693.537938809, 11016004.42123667, 6564021.167193852], 'traffic_ratio': [0.004876360761535485, 0.11516054885607128, 0.5514029115268735, 0.3285601788555198], 'carbon': 28374685849.771473, 'subway_distribution': {'地铁1号线(韦家碾--五根松)': 61194.01780739402, '地铁1号线(五根松--韦家碾)': 35931.33714894294, '地铁1号线(韦家碾--科学城)': 231.3160839952053, '地铁1号线(科学城--韦家碾)': 63.94569139834549}, 'fuel_car_distance': 116380611312.82515, 'elec_car_distance': 182186425529.2532, 'subway_mileage': 539563925.5727942}}, 2011: {'(1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12)': {'traffic_num': [100612.80910828775, 2354376.0693846974, 11299393.034241103, 6700186.907980134], 'traffic_ratio': [0.0049188428262735, 0.11510269857169683, 0.5524141395148, 0.32756431908722977], 'carbon': 29194235948.387672, 'subway_distribution': {'地铁1号线(韦家碾--五根松)': 63012.90953084781, '地铁1号线(五根松--韦家碾)': 37289.516474729295, '地铁1号线(韦家碾--科学城)': 245.16143007383698, '地铁1号线(科学城--韦家碾)': 65.22167263682205}, 'fuel_car_distance': 119582358635.93599, 'elec_car_distance': 187821897153.19244, 'subway_mileage': 557379124.8616678}}, 2012: {'(1, 2, 3, 4, 5, 6, 7, 8, 9)': {'traffic_num': [103433.33138397663, 2428253.309172932, 11880201.203997342, 6838203.17604692], 'traffic_ratio': [0.004867430039885564, 0.11427025450473746, 0.5590658972933306, 0.3217964181620463], 'carbon': 31096831289.57666, 'subway_distribution': {'地铁1号线(韦家碾--五根松)': 64834.21057847517, '地铁1号线(五根松--韦家碾)': 38276.074984626124, '地铁1号线(韦家碾--科学城)': 249.60615684881287, '地铁1号线(科学城--韦家碾)': 73.43966402650845}, 'fuel_car_distance': 127123149458.58871, 'elec_car_distance': 200652451391.18515, 'subway_mileage': 573433525.3501184}, '(10, 11, 12)': {'traffic_num': [273380.88190541253, 2394425.9754085536, 11817829.22348182, 6764454.939805419], 'traffic_ratio': [0.012864927573269192, 0.11267838679313152, 0.5561307578412185, 0.31832592779238084], 'carbon': 30982169417.000484, 'subway_distribution': {'地铁2号线(犀浦--龙泉驿)': 179047.25184606222, '地铁1号线(韦家碾--五根松)': 107650.59087756366, '地铁1号线(五根松--韦家碾)': 59303.33938232653, '地铁2号线(龙泉驿--犀浦)': 1696.9098669054385, '地铁1号线(科学城--韦家碾)': 142.9407166861523, '地铁1号线(韦家碾--科学城)': 259.3257426309633}, 'fuel_car_distance': 126648803888.03856, 'elec_car_distance': 199925712198.4945, 'subway_mileage': 2008222792.377932}}, 2013: {'(1, 2, 3, 4, 5, 6)': {'traffic_num': [276801.8940455366, 2445990.992652495, 12124114.486024633, 6926789.278253419], 'traffic_ratio': [0.012712673391319977, 0.11233696472678857, 0.556823890787563, 0.31812647109432846], 'carbon': 31798080529.844322, 'subway_distribution': {'地铁2号线(犀浦--龙泉驿)': 180773.52950015818, '地铁1号线(韦家碾--五根松)': 109139.92246066855, '地铁1号线(五根松--韦家碾)': 60373.594706387674, '地铁2号线(龙泉驿--犀浦)': 1767.8630415942587, '地铁1号线(科学城--韦家碾)': 147.31355048306307, '地铁1号线(韦家碾--科学城)': 277.818921313421}, 'fuel_car_distance': 130012092598.9269, 'elec_car_distance': 205125240526.06476, 'subway_mileage': 2025026983.0674217}, '(7, 8, 9, 10, 11, 12)': {'traffic_num': [324617.64543817943, 2441801.4618772105, 12090583.670321811, 6916693.873338866], 'traffic_ratio': [0.014908706162379073, 0.11214455225579484, 0.55528392188654, 0.31766281969528615], 'carbon': 31730493598.890774, 'subway_distribution': {'地铁2号线(犀浦--龙泉驿)': 231995.86000531074, '地铁1号线(五根松--韦家碾)': 60684.09550054741, '地铁1号线(韦家碾--五根松)': 112535.25028033716, '地铁1号线(韦家碾--科学城)': 276.03723265246487, '地铁2号线(龙泉驿--犀浦)': 5095.620301832971, '地铁1号线(科学城--韦家碾)': 129.53531303612715}, 'fuel_car_distance': 129741237676.20372, 'elec_car_distance': 204676419341.5615, 'subway_mileage': 2766346218.51021}}, 2014: {'(1, 2, 3, 4, 5, 6, 7, 8, 9, 10)': {'traffic_num': [333715.13998399506, 2506485.357793413, 12366669.020333659, 7080543.582810739], 'traffic_ratio': [0.014973255912333434, 0.11246192397671065, 0.5548723382267354, 0.3176924818842205], 'carbon': 32455109476.389565, 'subway_distribution': {'地铁2号线(犀浦--龙泉驿)': 238782.8137919972, '地铁1号线(五根松--韦家碾)': 62272.5197951667, '地铁1号线(韦家碾--五根松)': 115420.43552875938, '地铁1号线(韦家碾--科学城)': 283.9482599535735, '地铁2号线(龙泉驿--犀浦)': 5258.687770664593, '地铁1号线(科学城--韦家碾)': 132.2876526314729}, 'fuel_car_distance': 132704357615.06633, 'elec_car_distance': 209349887408.87735, 'subway_mileage': 2843565209.6073623}, '(11, 12)': {'traffic_num': [432382.63594464445, 2492812.156715196, 12294194.70928475, 7068023.598977135], 'traffic_ratio': [0.019400306082483963, 0.1118484296686771, 0.5516205336893185, 0.3171307305595205], 'carbon': 32288988017.07893, 'subway_distribution': {'地铁2号线(犀浦--龙泉驿)': 334234.58539290057, '地铁1号线(五根松--韦家碾)': 71202.21450815168, '地铁1号线(韦家碾--五根松)': 126684.21334763167, '地铁1号线(韦家碾--科学城)': 284.65755594105497, '地铁2号线(龙泉驿--犀浦)': 6030.010504167074, '地铁1号线(科学城--韦家碾)': 139.4842613712178}, 'fuel_car_distance': 132067181830.97186, 'elec_car_distance': 208179967530.12238, 'subway_mileage': 4526972563.959304}}, 2015: {'(1, 2, 3, 4, 5, 6, 7)': {'traffic_num': [441211.8090406525, 2546918.5365596586, 12809459.69903152, 7215100.658769984], 'traffic_ratio': [0.01917254330348389, 0.11067452169698541, 0.55662590107892, 0.3135270339206107], 'carbon': 33956971871.728054, 'subway_distribution': {'地铁2号线(犀浦--龙泉驿)': 341086.3719410617, '地铁1号线(五根松--韦家碾)': 72455.01476622815, '地铁1号线(韦家碾--五根松)': 129553.05502225395, '地铁1号线(韦家碾--科学城)': 284.65372985585833, '地铁2号线(龙泉驿--犀浦)': 6181.492041638342, '地铁1号线(科学城--韦家碾)': 145.36911982253807}, 'fuel_car_distance': 138617682352.25623, 'elec_car_distance': 219569644289.2275, 'subway_mileage': 4621837636.682719}, '(8, 9, 10, 11, 12)': {'traffic_num': [492649.024639588, 2535788.940177884, 12779814.44960365, 7204438.288980726], 'traffic_ratio': [0.021407710684034104, 0.11019089305376321, 0.5553376879877187, 0.313063708274484], 'carbon': 33903893708.50563, 'subway_distribution': {'地铁2号线(犀浦--龙泉驿)': 353240.2374349879, '地铁1号线(五根松--韦家碾)': 92973.98392618238, '地铁1号线(韦家碾--五根松)': 160182.1470923123, '地铁1号线(韦家碾--科学城)': 518.2804373684965, '地铁2号线(龙泉驿--犀浦)': 6260.962621377434, '地铁1号线(科学城--韦家碾)': 161.64531860523033}, 'fuel_car_distance': 138443749028.49716, 'elec_car_distance': 219126508913.26068, 'subway_mileage': 5258882944.162091}}, 2016: {'(1, 2, 3, 4, 5, 6, 7)': {'traffic_num': [703282.0819633342, 2555354.708428671, 13069408.45891232, 7274833.396596411], 'traffic_ratio': [0.029796453751012177, 0.10826453615107985, 0.5537209530661281, 0.3082180570317798], 'carbon': 34877676934.0462, 'subway_distribution': {'地铁2号线(犀浦--龙泉驿)': 395434.3296652983, '地铁4号线(西河--万盛)': 10401.871251919642, '地铁4号线(万盛--西河)': 242509.64699346156, '地铁1号线(五根松--韦家碾)': 97679.67202753089, '地铁1号线(韦家碾--五根松)': 175369.16632121368, '地铁1号线(韦家碾--科学城)': 526.6476688151477, '地铁2号线(龙泉驿--犀浦)': 9612.713216482223, '地铁1号线(科学城--韦家碾)': 163.36156525025652}, 'fuel_car_distance': 142231044576.99875, 'elec_car_distance': 225862271089.33228, 'subway_mileage': 7145187329.181186}, '(8, 9, 10, 11, 12)': {'traffic_num': [867721.3038618035, 2528439.8440757245, 12998124.276222738, 7208593.221740473], 'traffic_ratio': [0.036763367590864016, 0.10712421488956199, 0.5507008052375936, 0.3054116122819805], 'carbon': 34747802776.44014, 'subway_distribution': {'地铁2号线(犀浦--龙泉驿)': 420583.74710350187, '地铁4号线(西河--万盛)': 12093.704862643306, '地铁4号线(万盛--西河)': 272887.53944752144, '地铁1号线(五根松--韦家碾)': 109366.74797151507, '地铁1号线(韦家碾--五根松)': 180819.2973121736, '地铁3号线(成都医学院--双流西站)': 31075.22386694482, '地铁3号线(双流西站--成都医学院)': 149066.65625154818, '地铁1号线(韦家碾--科学城)': 527.2474945810212, '地铁2号线(龙泉驿--犀浦)': 14068.809358229559, '地铁1号线(科学城--韦家碾)': 149.73920006581213}, 'fuel_car_distance': 141654074269.15805, 'elec_car_distance': 225131916553.86908, 'subway_mileage': 8767399826.76817}}, 2017: {'(1, 2, 3, 4, 5, 6)': {'traffic_num': [884422.4344583941, 2580131.971465669, 13348222.82072999, 7367028.130927253], 'traffic_ratio': [0.03657690462678159, 0.10670606869284403, 0.5520401270122219, 0.30467689966815237], 'carbon': 35754109572.20143, 'subway_distribution': {'地铁2号线(犀浦--龙泉驿)': 428026.6795482128, '地铁4号线(西河--万盛)': 12396.735495613633, '地铁4号线(万盛--西河)': 278730.3064735519, '地铁1号线(五根松--韦家碾)': 111545.95025897869, '地铁1号线(韦家碾--五根松)': 184311.2665843342, '地铁3号线(成都医学院--双流西站)': 31716.256670190236, '地铁3号线(双流西站--成都医学院)': 151824.62514674015, '地铁1号线(韦家碾--科学城)': 545.1393806983314, '地铁2号线(龙泉驿--犀浦)': 14401.900326474515, '地铁1号线(科学城--韦家碾)': 152.98673499392893}, 'fuel_car_distance': 145707727174.67432, 'elec_car_distance': 231765644991.53397, 'subway_mileage': 8915576762.782564}, '(7, 8, 9)': {'traffic_num': [1030924.3132282118, 2562622.868099871, 13236311.676425345, 7349946.499827796], 'traffic_ratio': [0.04263575731824411, 0.10598194775361987, 0.5474118373031193, 0.30397045762501673], 'carbon': 35481616982.45933, 'subway_distribution': {'地铁4号线(万盛--西河)': 427482.78065725096, '地铁2号线(犀浦--龙泉驿)': 442248.94558775285, '地铁1号线(韦家碾--五根松)': 193467.5635322913, '地铁2号线(龙泉驿--犀浦)': 19535.44104256422, '地铁3号线(双流西站--成都医学院)': 159450.36013034525, '地铁1号线(五根松--韦家碾)': 116802.04834396509, '地铁4号线(西河--万盛)': 13339.082165343798, '地铁3号线(成都医学院--双流西站)': 35570.148583798284, '地铁1号线(韦家碾--科学城)': 788.5618604152966, '地铁1号线(科学城--韦家碾)': 152.4520194771218}, 'fuel_car_distance': 144659862335.3732, 'elec_car_distance': 229852893623.76212, 'subway_mileage': 11508390185.726154}, '(10, 11, 12)': {'traffic_num': [1080640.0223669824, 2557264.3912261473, 13208169.9716207, 7333730.9723673565], 'traffic_ratio': [0.04469184124462628, 0.10576033815856828, 0.5462479857175315, 0.3032998348792739], 'carbon': 35426550165.131096, 'subway_distribution': {'地铁4号线(万盛--西河)': 430536.54474377993, '地铁2号线(犀浦--龙泉驿)': 448100.38225384627, '地铁1号线(韦家碾--五根松)': 195223.330841365, '地铁2号线(龙泉驿--犀浦)': 19751.189966020098, '地铁3号线(双流西站--成都医学院)': 196483.27350207386, '地铁1号线(五根松--韦家碾)': 122171.05114141609, '地铁4号线(西河--万盛)': 14618.05285348755, '地铁3号线(成都医学院--双流西站)': 35584.28058184674, '地铁1号线(韦家碾--科学城)': 788.7517138579651, '地铁10号线(太平园--新平)': 2100.9546708298617, '地铁10号线(新平--太平园)': 49940.53046130282, '地铁1号线(科学城--韦家碾)': 152.6037437678041}, 'fuel_car_distance': 144434853478.12717, 'elec_car_distance': 229497333774.96542, 'subway_mileage': 12210200545.377287}}, 2018: {'(1, 2, 3)': {'traffic_num': [1675716.918825771, 2510454.4813436074, 13255406.869276077, 7301318.491909049], 'traffic_ratio': [0.06772517118703109, 0.10146162373617636, 0.5357257477620593, 0.29508745731473324], 'carbon': 35844520828.13669, 'subway_distribution': {'地铁4号线(万盛--西河)': 519428.5642282636, '地铁2号线(犀浦--龙泉驿)': 535243.4838448334, '地铁7号线内环(火车北站--火车北站)': 410515.77901683067, '地铁1号线(韦家碾--五根松)': 218287.3602954052, '地铁7号线外环(火车北站--火车北站)': 277030.8822885465, '地铁2号线(龙泉驿--犀浦)': 25416.796909413435, '地铁3号线(双流西站--成都医学院)': 201326.67813599267, '地铁1号线(五根松--韦家碾)': 148000.8619562052, '地铁4号线(西河--万盛)': 22134.414442038495, '地铁10号线(太平园--新平)': 9102.46465877673, '地铁3号线(成都医学院--双流西站)': 43837.006329546246, '地铁1号线(韦家碾--科学城)': 509.15317279721563, '地铁10号线(新平--太平园)': 92524.11074820612, '地铁1号线(科学城--韦家碾)': 147.41983252884486}, 'fuel_car_distance': 145842378995.43173, 'elec_car_distance': 232898329203.21207, 'subway_mileage': 18898321259.407955}, '(4, 5, 6, 7, 8, 9, 10, 11, 12)': {'traffic_num': [1830966.022124007, 2483852.2306700135, 13159224.32121863, 7268854.18734172], 'traffic_ratio': [0.07399966300565787, 0.10038647675843324, 0.5318384685568369, 0.2937753916790719], 'carbon': 35638156493.31236, 'subway_distribution': {'地铁4号线(万盛--西河)': 536144.7841235927, '地铁2号线(犀浦--龙泉驿)': 552265.8126920288, '地铁7号线内环(火车北站--火车北站)': 426397.7195488208, '地铁1号线(韦家碾--五根松)': 255736.35448312893, '地铁1号线(五根松--韦家碾)': 210359.44024209716, '地铁7号线外环(火车北站--火车北站)': 286290.8304514998, '地铁2号线(龙泉驿--犀浦)': 25694.21287695556, '地铁3号线(双流西站--成都医学院)': 197560.9745494333, '地铁4号线(西河--万盛)': 22268.829161557165, '地铁10号线(太平园--新平)': 9120.525882479931, '地铁3号线(成都医学院--双流西站)': 44205.00114808419, '地铁1号线(韦家碾--科学城)': 45882.4759408471, '地铁1号线(科学城--韦家碾)': 31981.363624439033, '地铁10号线(新平--太平园)': 93518.32053293182}, 'fuel_car_distance': 145054752840.56723, 'elec_car_distance': 231435866059.83734, 'subway_mileage': 21101004505.344997}}, 2019: {'(1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12)': {'traffic_num': [2267351.252820976, 2485233.3905743407, 13256938.992889948, 7356201.067369083], 'traffic_ratio': [0.08938641727410718, 0.09797604521885796, 0.5226319826367929, 0.29000555487024193], 'carbon': 36162346951.33645, 'subway_distribution': {'地铁4号线(万盛--西河)': 580737.6931352544, '地铁2号线(犀浦--龙泉驿)': 587373.337277824, '地铁7号线外环(火车北站--火车北站)': 326995.94386952685, '地铁7号线内环(火车北站--火车北站)': 496788.9644321969, '地铁1号线(韦家碾--五根松)': 270145.5333224918, '地铁1号线(五根松--韦家碾)': 243197.1676493982, '地铁2号线(龙泉驿--犀浦)': 39893.35898047398, '地铁3号线(双流西站--成都医学院)': 576201.0593200299, '地铁3号线(成都医学院--双流西站)': 68156.34362177076, '地铁4号线(西河--万盛)': 33623.4306679497, '地铁10号线(太平园--新平)': 10801.835682909586, '地铁1号线(韦家碾--科学城)': 47942.52542169341, '地铁1号线(科学城--韦家碾)': 33896.95329441241, '地铁10号线(新平--太平园)': 101877.20537850974}, 'fuel_car_distance': 147146056919.33685, 'elec_car_distance': 234938788888.5126, 'subway_mileage': 28743874618.225273}}, 2020: {'(1, 2, 3, 4, 5, 6, 7, 8, 9)': {'traffic_num': [3101540.1414932073, 2412060.9469587225, 13122286.021850534, 7298037.349327577], 'traffic_ratio': [0.11959393752076396, 0.09300794219222197, 0.5059892127887277, 0.2814089074982864], 'carbon': 36040263029.5903, 'subway_distribution': {'地铁10号线(新平--太平园)': 262126.10555494612, '地铁3号线(双流西站--成都医学院)': 766778.5768859275, '地铁5号线(回龙--华桂路)': 452445.2810741675, '地铁4号线(万盛--西河)': 749325.5263733565, '地铁2号线(犀浦--龙泉驿)': 690052.478771459, '地铁7号线内环(火车北站--火车北站)': 603401.5871006843, '地铁4号线(西河--万盛)': 40563.86042233293, '地铁2号线(龙泉驿--犀浦)': 45199.51299648787, '地铁1号线(五根松--韦家碾)': 238846.14836211017, '地铁7号线外环(火车北站--火车北站)': 387420.9688990822, '地铁3号线(成都医学院--双流西站)': 78187.87658506291, '地铁1号线(韦家碾--五根松)': 267923.87927254447, '地铁10号线(太平园--新平)': 12917.816176041917, '地铁5号线(华桂路--回龙)': 392892.5123557656, '地铁1号线(韦家碾--科学城)': 49883.33622054772, '地铁1号线(科学城--韦家碾)': 33560.599588601435}, 'fuel_car_distance': 146997335996.56766, 'elec_car_distance': 233331913518.61926, 'subway_mileage': 42060863883.57646}, '(10, 11, 12)': {'traffic_num': [3124828.654872434, 2408867.6456731283, 13106329.257544555, 7293898.901539814], 'traffic_ratio': [0.12049193170654529, 0.09288480998789422, 0.5053739274187574, 0.28124933088680304], 'carbon': 36000380855.58077, 'subway_distribution': {'地铁10号线(新平--太平园)': 262361.2956879174, '地铁3号线(双流西站--成都医学院)': 766812.0746667847, '地铁5号线(回龙--华桂路)': 451665.29269528005, '地铁4号线(万盛--西河)': 749773.4335446777, '地铁2号线(犀浦--龙泉驿)': 692731.2807184812, '地铁7号线内环(火车北站--火车北站)': 603534.1206721826, '地铁4号线(西河--万盛)': 40609.65687142175, '地铁2号线(龙泉驿--犀浦)': 45584.13995199969, '地铁1号线(五根松--韦家碾)': 237593.54725225395, '地铁7号线外环(火车北站--火车北站)': 399763.6656847715, '地铁3号线(成都医学院--双流西站)': 78374.50187294798, '地铁1号线(韦家碾--五根松)': 271789.53495113837, '地铁10号线(太平园--新平)': 12896.135220677288, '地铁5号线(华桂路--回龙)': 393488.00518898503, '地铁1号线(韦家碾--科学城)': 47304.465271954075, '地铁18号线(火车南站--天府机场北)': 32428.33840388377, '地铁1号线(科学城--韦家碾)': 32169.572130899094, '地铁18号线(天府机场北--火车南站)': 23436.986952816784}, 'fuel_car_distance': 146840048977.35306, 'elec_car_distance': 233061129176.60498, 'subway_mileage': 42387868969.26636}}, 2021: {'(1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12)': {'traffic_num': [4468386.770669839, 2209364.7030587355, 12369272.988448674, 6886899.997452745], 'traffic_ratio': [0.1722989043800736, 0.08519206981179961, 0.47695338234301127, 0.26555564346511573], 'carbon': 34505135344.19725, 'subway_distribution': {'地铁10号线(新平--太平园)': 290853.54878256074, '地铁3号线(双流西站--成都医学院)': 836967.0903948728, '地铁5号线(回龙--华桂路)': 609913.6976970762, '地铁4号线(万盛--西河)': 904890.51253009, '地铁2号线(犀浦--龙泉驿)': 747458.0276985583, '地铁9号线(金融城东--黄田坝)': 103675.84748546162, '地铁4号线(西河--万盛)': 48505.7955986111, '地铁2号线(龙泉驿--犀浦)': 58948.32900975814, '地铁6号线(兰家沟--望丛祠)': 170444.76325807784, '地铁1号线(五根松--韦家碾)': 281769.8347833237, '地铁7号线外环(火车北站--火车北站)': 422735.93059389264, '地铁17号线(机投桥--九江北)': 2158.8730965655163, '地铁19号线(天府机场北--金星)': 4466.026333960648, '地铁3号线(成都医学院--双流西站)': 90898.05188396093, '地铁7号线内环(火车北站--火车北站)': 628445.4699337654, '地铁9号线(黄田坝--金融城东)': 367001.8983338449, '地铁8号线(莲花--十里店)': 433684.85626846534, '地铁6号线(望丛祠--兰家沟)': 714613.4683192158, '地铁1号线(韦家碾--五根松)': 304905.9438058877, '地铁10号线(太平园--新平)': 24027.459559661133, '地铁8号线(十里店--莲花)': 107656.57834529135, '地铁5号线(华桂路--回龙)': 515829.7641985142, '地铁18号线(火车南站--天府机场北)': 53078.04749537058, '地铁1号线(韦家碾--科学城)': 53645.017122854, '地铁19号线(金星--天府机场北)': 105035.08422314028, '地铁17号线(九江北--机投桥)': 100025.64711796408, '地铁1号线(科学城--韦家碾)': 35197.35538251378, '地铁18号线(天府机场北--火车南站)': 35858.362635408215}, 'fuel_car_distance': 140639579090.66312, 'elec_car_distance': 223618652871.74747, 'subway_mileage': 62483193524.92313}}, 2022: {'(1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12)': {'traffic_num': [4468386.770669839, 2209364.7030587355, 12369272.988448674, 6886899.997452745], 'traffic_ratio': [0.1722989043800736, 0.08519206981179961, 0.47695338234301127, 0.26555564346511573], 'carbon': 34505135344.19725, 'subway_distribution': {'地铁10号线(新平--太平园)': 290853.54878256074, '地铁3号线(双流西站--成都医学院)': 836967.0903948728, '地铁5号线(回龙--华桂路)': 609913.6976970762, '地铁4号线(万盛--西河)': 904890.51253009, '地铁2号线(犀浦--龙泉驿)': 747458.0276985583, '地铁9号线(金融城东--黄田坝)': 103675.84748546162, '地铁4号线(西河--万盛)': 48505.7955986111, '地铁2号线(龙泉驿--犀浦)': 58948.32900975814, '地铁6号线(兰家沟--望丛祠)': 170444.76325807784, '地铁1号线(五根松--韦家碾)': 281769.8347833237, '地铁7号线外环(火车北站--火车北站)': 422735.93059389264, '地铁17号线(机投桥--九江北)': 2158.8730965655163, '地铁19号线(天府机场北--金星)': 4466.026333960648, '地铁3号线(成都医学院--双流西站)': 90898.05188396093, '地铁7号线内环(火车北站--火车北站)': 628445.4699337654, '地铁9号线(黄田坝--金融城东)': 367001.8983338449, '地铁8号线(莲花--十里店)': 433684.85626846534, '地铁6号线(望丛祠--兰家沟)': 714613.4683192158, '地铁1号线(韦家碾--五根松)': 304905.9438058877, '地铁10号线(太平园--新平)': 24027.459559661133, '地铁8号线(十里店--莲花)': 107656.57834529135, '地铁5号线(华桂路--回龙)': 515829.7641985142, '地铁18号线(火车南站--天府机场北)': 53078.04749537058, '地铁1号线(韦家碾--科学城)': 53645.017122854, '地铁19号线(金星--天府机场北)': 105035.08422314028, '地铁17号线(九江北--机投桥)': 100025.64711796408, '地铁1号线(科学城--韦家碾)': 35197.35538251378, '地铁18号线(天府机场北--火车南站)': 35858.362635408215}, 'fuel_car_distance': 140639579090.66312, 'elec_car_distance': 223618652871.74747, 'subway_mileage': 62483193524.92313}}, 2023: {'(1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12)': {'traffic_num': [4468386.770669839, 2209364.7030587355, 12369272.988448674, 6886899.997452745], 'traffic_ratio': [0.1722989043800736, 0.08519206981179961, 0.47695338234301127, 0.26555564346511573], 'carbon': 34505135344.19725, 'subway_distribution': {'地铁10号线(新平--太平园)': 290853.54878256074, '地铁3号线(双流西站--成都医学院)': 836967.0903948728, '地铁5号线(回龙--华桂路)': 609913.6976970762, '地铁4号线(万盛--西河)': 904890.51253009, '地铁2号线(犀浦--龙泉驿)': 747458.0276985583, '地铁9号线(金融城东--黄田坝)': 103675.84748546162, '地铁4号线(西河--万盛)': 48505.7955986111, '地铁2号线(龙泉驿--犀浦)': 58948.32900975814, '地铁6号线(兰家沟--望丛祠)': 170444.76325807784, '地铁1号线(五根松--韦家碾)': 281769.8347833237, '地铁7号线外环(火车北站--火车北站)': 422735.93059389264, '地铁17号线(机投桥--九江北)': 2158.8730965655163, '地铁19号线(天府机场北--金星)': 4466.026333960648, '地铁3号线(成都医学院--双流西站)': 90898.05188396093, '地铁7号线内环(火车北站--火车北站)': 628445.4699337654, '地铁9号线(黄田坝--金融城东)': 367001.8983338449, '地铁8号线(莲花--十里店)': 433684.85626846534, '地铁6号线(望丛祠--兰家沟)': 714613.4683192158, '地铁1号线(韦家碾--五根松)': 304905.9438058877, '地铁10号线(太平园--新平)': 24027.459559661133, '地铁8号线(十里店--莲花)': 107656.57834529135, '地铁5号线(华桂路--回龙)': 515829.7641985142, '地铁18号线(火车南站--天府机场北)': 53078.04749537058, '地铁1号线(韦家碾--科学城)': 53645.017122854, '地铁19号线(金星--天府机场北)': 105035.08422314028, '地铁17号线(九江北--机投桥)': 100025.64711796408, '地铁1号线(科学城--韦家碾)': 35197.35538251378, '地铁18号线(天府机场北--火车南站)': 35858.362635408215}, 'fuel_car_distance': 140639579090.66312, 'elec_car_distance': 223618652871.74747, 'subway_mileage': 62483193524.92313}}}
+2024-06-27 12:43:57,410 - root - INFO - jinzhanliang_true_list: [239.91945205479453, 201.25972602739728, 145.21616438356165, 111.51479452054795, 74.41917808219178]
+2024-06-27 12:43:57,411 - root - INFO - jinzhanliang_list: [226.73512528209758, 179.2153746299448, 97.01023011279956, 77.17984244210298, 46.26439822068756, 35.01597226441033]
+2024-06-27 12:43:57,411 - root - INFO - keyunliang_true_list: [383.59479452054796, 317.1394520547945, 214.28027397260274, 154.01945205479453, 92.96712328767123]
+2024-06-27 12:43:57,412 - root - INFO - keyunliang_list: [341.76313520544426, 267.8946227908269, 133.78980059090938, 103.95896187761188, 57.62189983750161, 44.155477159433794]
+2024-06-27 12:43:57,412 - root - INFO - licheng_true_list: [3126.1761643835616, 2467.7983561643837, 1741.7813698630137, 1284.9038356164385, 832.8109589041096]
+2024-06-27 12:43:57,412 - root - INFO - licheng_list: [2874.3874618225273, 2055.033369386074, 1038.743606416714, 782.1109203175762, 488.7273181465791, 312.41331019993527]
+2024-06-27 12:43:57,412 - root - INFO - ratio: 1.0581485852987857
+2024-06-27 12:43:57,907 - matplotlib.font_manager - WARNING - findfont: Generic family 'sans-serif' not found because none of the following families were found: Times New Roman
+2024-06-27 12:43:57,967 - matplotlib.font_manager - WARNING - findfont: Generic family 'sans-serif' not found because none of the following families were found: Times New Roman
+2024-06-27 12:43:57,969 - matplotlib.font_manager - WARNING - findfont: Generic family 'sans-serif' not found because none of the following families were found: Times New Roman
+2024-06-27 12:43:57,974 - matplotlib.font_manager - WARNING - findfont: Generic family 'sans-serif' not found because none of the following families were found: Times New Roman
+2024-06-27 12:43:57,978 - matplotlib.font_manager - WARNING - findfont: Generic family 'sans-serif' not found because none of the following families were found: Times New Roman
+2024-06-27 12:43:57,983 - matplotlib.font_manager - WARNING - findfont: Generic family 'sans-serif' not found because none of the following families were found: Times New Roman
+2024-06-27 12:43:58,026 - matplotlib.font_manager - WARNING - findfont: Generic family 'sans-serif' not found because none of the following families were found: Times New Roman
+2024-06-27 12:43:58,027 - matplotlib.font_manager - WARNING - findfont: Generic family 'sans-serif' not found because none of the following families were found: Times New Roman
+2024-06-27 12:43:58,028 - matplotlib.font_manager - WARNING - findfont: Generic family 'sans-serif' not found because none of the following families were found: Times New Roman
+2024-06-27 12:43:58,030 - matplotlib.font_manager - WARNING - findfont: Generic family 'sans-serif' not found because none of the following families were found: Times New Roman
+2024-06-27 12:43:58,046 - matplotlib.font_manager - WARNING - findfont: Generic family 'sans-serif' not found because none of the following families were found: Times New Roman
+2024-06-27 12:43:58,051 - matplotlib.font_manager - WARNING - findfont: Generic family 'sans-serif' not found because none of the following families were found: Times New Roman
+2024-06-27 12:43:58,064 - matplotlib.font_manager - WARNING - findfont: Generic family 'sans-serif' not found because none of the following families were found: Times New Roman
+2024-06-27 12:43:58,066 - matplotlib.font_manager - WARNING - findfont: Generic family 'sans-serif' not found because none of the following families were found: Times New Roman
+2024-06-27 12:43:58,076 - matplotlib.font_manager - WARNING - findfont: Generic family 'sans-serif' not found because none of the following families were found: Times New Roman
+2024-06-27 12:43:58,077 - matplotlib.font_manager - WARNING - findfont: Generic family 'sans-serif' not found because none of the following families were found: Times New Roman
+2024-06-27 12:43:58,079 - matplotlib.font_manager - WARNING - findfont: Generic family 'sans-serif' not found because none of the following families were found: Times New Roman
+2024-06-27 12:43:58,081 - matplotlib.font_manager - WARNING - findfont: Generic family 'sans-serif' not found because none of the following families were found: Times New Roman
+2024-06-27 12:43:58,082 - matplotlib.font_manager - WARNING - findfont: Generic family 'sans-serif' not found because none of the following families were found: Times New Roman
+2024-06-27 12:43:58,083 - matplotlib.font_manager - WARNING - findfont: Generic family 'sans-serif' not found because none of the following families were found: Times New Roman
+2024-06-27 12:43:58,084 - matplotlib.font_manager - WARNING - findfont: Generic family 'sans-serif' not found because none of the following families were found: Times New Roman
+2024-06-27 12:43:58,085 - matplotlib.font_manager - WARNING - findfont: Generic family 'sans-serif' not found because none of the following families were found: Times New Roman
+2024-06-27 12:43:58,086 - matplotlib.font_manager - WARNING - findfont: Generic family 'sans-serif' not found because none of the following families were found: Times New Roman
+2024-06-27 12:43:58,086 - matplotlib.font_manager - WARNING - findfont: Generic family 'sans-serif' not found because none of the following families were found: Times New Roman
+2024-06-27 12:43:58,087 - matplotlib.font_manager - WARNING - findfont: Generic family 'sans-serif' not found because none of the following families were found: Times New Roman
+2024-06-27 12:43:58,088 - matplotlib.font_manager - WARNING - findfont: Generic family 'sans-serif' not found because none of the following families were found: Times New Roman
+2024-06-27 12:43:58,088 - matplotlib.font_manager - WARNING - findfont: Generic family 'sans-serif' not found because none of the following families were found: Times New Roman
+2024-06-27 12:43:58,091 - matplotlib.font_manager - WARNING - findfont: Generic family 'sans-serif' not found because none of the following families were found: Times New Roman
+2024-06-27 12:43:58,092 - matplotlib.font_manager - WARNING - findfont: Generic family 'sans-serif' not found because none of the following families were found: Times New Roman
+2024-06-27 12:43:58,095 - matplotlib.font_manager - WARNING - findfont: Generic family 'sans-serif' not found because none of the following families were found: Times New Roman
+2024-06-27 12:43:58,096 - matplotlib.font_manager - WARNING - findfont: Generic family 'sans-serif' not found because none of the following families were found: Times New Roman
+2024-06-27 12:43:58,098 - matplotlib.font_manager - WARNING - findfont: Generic family 'sans-serif' not found because none of the following families were found: Times New Roman
+2024-06-27 12:43:58,098 - matplotlib.font_manager - WARNING - findfont: Generic family 'sans-serif' not found because none of the following families were found: Times New Roman
+2024-06-27 12:43:58,099 - matplotlib.font_manager - WARNING - findfont: Generic family 'sans-serif' not found because none of the following families were found: Times New Roman
+2024-06-27 12:43:58,101 - matplotlib.font_manager - WARNING - findfont: Generic family 'sans-serif' not found because none of the following families were found: Times New Roman
+2024-06-27 12:43:58,180 - matplotlib.font_manager - WARNING - findfont: Generic family 'sans-serif' not found because none of the following families were found: Times New Roman
+2024-06-27 12:43:58,183 - matplotlib.font_manager - WARNING - findfont: Generic family 'sans-serif' not found because none of the following families were found: Times New Roman
+2024-06-27 12:43:58,217 - matplotlib.font_manager - WARNING - findfont: Generic family 'sans-serif' not found because none of the following families were found: Times New Roman
+2024-06-27 12:43:58,246 - matplotlib.font_manager - WARNING - findfont: Generic family 'sans-serif' not found because none of the following families were found: Times New Roman
+2024-06-27 12:43:58,285 - matplotlib.font_manager - WARNING - findfont: Generic family 'sans-serif' not found because none of the following families were found: Times New Roman
+2024-06-27 12:43:58,286 - matplotlib.font_manager - WARNING - findfont: Generic family 'sans-serif' not found because none of the following families were found: Times New Roman
+2024-06-27 12:43:58,304 - matplotlib.font_manager - WARNING - findfont: Generic family 'sans-serif' not found because none of the following families were found: Times New Roman
+2024-06-27 12:43:58,306 - matplotlib.font_manager - WARNING - findfont: Generic family 'sans-serif' not found because none of the following families were found: Times New Roman
+2024-06-27 12:43:58,307 - matplotlib.font_manager - WARNING - findfont: Generic family 'sans-serif' not found because none of the following families were found: Times New Roman
+2024-06-27 12:43:58,315 - matplotlib.font_manager - WARNING - findfont: Generic family 'sans-serif' not found because none of the following families were found: Times New Roman
+2024-06-27 12:43:58,316 - matplotlib.font_manager - WARNING - findfont: Generic family 'sans-serif' not found because none of the following families were found: Times New Roman
+2024-06-27 12:43:58,317 - matplotlib.font_manager - WARNING - findfont: Generic family 'sans-serif' not found because none of the following families were found: Times New Roman
+2024-06-27 12:43:58,318 - matplotlib.font_manager - WARNING - findfont: Generic family 'sans-serif' not found because none of the following families were found: Times New Roman
+2024-06-27 12:43:58,319 - matplotlib.font_manager - WARNING - findfont: Generic family 'sans-serif' not found because none of the following families were found: Times New Roman
+2024-06-27 12:43:58,320 - matplotlib.font_manager - WARNING - findfont: Generic family 'sans-serif' not found because none of the following families were found: Times New Roman
+2024-06-27 12:43:58,321 - matplotlib.font_manager - WARNING - findfont: Generic family 'sans-serif' not found because none of the following families were found: Times New Roman
+2024-06-27 12:43:58,322 - matplotlib.font_manager - WARNING - findfont: Generic family 'sans-serif' not found because none of the following families were found: Times New Roman
+2024-06-27 12:43:58,326 - matplotlib.font_manager - WARNING - findfont: Generic family 'sans-serif' not found because none of the following families were found: Times New Roman
+2024-06-27 12:43:58,327 - matplotlib.font_manager - WARNING - findfont: Generic family 'sans-serif' not found because none of the following families were found: Times New Roman
+2024-06-27 12:43:58,327 - matplotlib.font_manager - WARNING - findfont: Generic family 'sans-serif' not found because none of the following families were found: Times New Roman
+2024-06-27 12:43:58,328 - matplotlib.font_manager - WARNING - findfont: Generic family 'sans-serif' not found because none of the following families were found: Times New Roman
+2024-06-27 12:43:58,328 - matplotlib.font_manager - WARNING - findfont: Generic family 'sans-serif' not found because none of the following families were found: Times New Roman
+2024-06-27 12:43:58,329 - matplotlib.font_manager - WARNING - findfont: Generic family 'sans-serif' not found because none of the following families were found: Times New Roman
+2024-06-27 12:43:58,335 - matplotlib.font_manager - WARNING - findfont: Generic family 'sans-serif' not found because none of the following families were found: Times New Roman
+2024-06-27 12:43:58,336 - matplotlib.font_manager - WARNING - findfont: Generic family 'sans-serif' not found because none of the following families were found: Times New Roman
+2024-06-27 12:43:58,337 - matplotlib.font_manager - WARNING - findfont: Generic family 'sans-serif' not found because none of the following families were found: Times New Roman
+2024-06-27 12:43:58,338 - matplotlib.font_manager - WARNING - findfont: Generic family 'sans-serif' not found because none of the following families were found: Times New Roman
+2024-06-27 12:43:58,339 - matplotlib.font_manager - WARNING - findfont: Generic family 'sans-serif' not found because none of the following families were found: Times New Roman
+2024-06-27 12:43:58,340 - matplotlib.font_manager - WARNING - findfont: Generic family 'sans-serif' not found because none of the following families were found: Times New Roman
+2024-06-27 12:43:58,381 - matplotlib.font_manager - WARNING - findfont: Generic family 'sans-serif' not found because none of the following families were found: Times New Roman
+2024-06-27 12:43:58,382 - matplotlib.font_manager - WARNING - findfont: Generic family 'sans-serif' not found because none of the following families were found: Times New Roman
+2024-06-27 12:43:58,387 - matplotlib.font_manager - WARNING - findfont: Generic family 'sans-serif' not found because none of the following families were found: Times New Roman
+2024-06-27 12:43:58,394 - matplotlib.font_manager - WARNING - findfont: Generic family 'sans-serif' not found because none of the following families were found: Times New Roman
+2024-06-27 12:43:58,396 - matplotlib.font_manager - WARNING - findfont: Generic family 'sans-serif' not found because none of the following families were found: Times New Roman
+2024-06-27 12:43:58,399 - matplotlib.font_manager - WARNING - findfont: Generic family 'sans-serif' not found because none of the following families were found: Times New Roman
+2024-06-27 12:43:58,401 - matplotlib.font_manager - WARNING - findfont: Generic family 'sans-serif' not found because none of the following families were found: Times New Roman
+2024-06-27 12:43:58,404 - matplotlib.font_manager - WARNING - findfont: Generic family 'sans-serif' not found because none of the following families were found: Times New Roman
+2024-06-27 12:43:58,406 - matplotlib.font_manager - WARNING - findfont: Generic family 'sans-serif' not found because none of the following families were found: Times New Roman
+2024-06-27 12:43:58,409 - matplotlib.font_manager - WARNING - findfont: Generic family 'sans-serif' not found because none of the following families were found: Times New Roman
+2024-06-27 12:43:58,411 - matplotlib.font_manager - WARNING - findfont: Generic family 'sans-serif' not found because none of the following families were found: Times New Roman
+2024-06-27 12:43:58,413 - matplotlib.font_manager - WARNING - findfont: Generic family 'sans-serif' not found because none of the following families were found: Times New Roman
+2024-06-27 12:43:58,415 - matplotlib.font_manager - WARNING - findfont: Generic family 'sans-serif' not found because none of the following families were found: Times New Roman
+2024-06-27 12:43:58,417 - matplotlib.font_manager - WARNING - findfont: Generic family 'sans-serif' not found because none of the following families were found: Times New Roman
+2024-06-27 12:43:58,420 - matplotlib.font_manager - WARNING - findfont: Generic family 'sans-serif' not found because none of the following families were found: Times New Roman
+2024-06-27 12:43:58,423 - matplotlib.font_manager - WARNING - findfont: Generic family 'sans-serif' not found because none of the following families were found: Times New Roman
+2024-06-27 12:43:58,424 - matplotlib.font_manager - WARNING - findfont: Generic family 'sans-serif' not found because none of the following families were found: Times New Roman
+2024-06-27 12:43:58,426 - matplotlib.font_manager - WARNING - findfont: Generic family 'sans-serif' not found because none of the following families were found: Times New Roman
+2024-06-27 12:43:58,428 - matplotlib.font_manager - WARNING - findfont: Generic family 'sans-serif' not found because none of the following families were found: Times New Roman
+2024-06-27 12:43:58,430 - matplotlib.font_manager - WARNING - findfont: Generic family 'sans-serif' not found because none of the following families were found: Times New Roman
+2024-06-27 12:43:58,432 - matplotlib.font_manager - WARNING - findfont: Generic family 'sans-serif' not found because none of the following families were found: Times New Roman
+2024-06-27 12:43:58,433 - matplotlib.font_manager - WARNING - findfont: Generic family 'sans-serif' not found because none of the following families were found: Times New Roman
+2024-06-27 12:43:58,435 - matplotlib.font_manager - WARNING - findfont: Generic family 'sans-serif' not found because none of the following families were found: Times New Roman
+2024-06-27 12:43:58,438 - matplotlib.font_manager - WARNING - findfont: Generic family 'sans-serif' not found because none of the following families were found: Times New Roman
+2024-06-27 12:43:58,440 - matplotlib.font_manager - WARNING - findfont: Generic family 'sans-serif' not found because none of the following families were found: Times New Roman
+2024-06-27 12:43:58,443 - matplotlib.font_manager - WARNING - findfont: Generic family 'sans-serif' not found because none of the following families were found: Times New Roman
+2024-06-27 12:43:58,446 - matplotlib.font_manager - WARNING - findfont: Generic family 'sans-serif' not found because none of the following families were found: Times New Roman
+2024-06-27 12:43:58,452 - matplotlib.font_manager - WARNING - findfont: Generic family 'sans-serif' not found because none of the following families were found: Times New Roman
+2024-06-27 12:43:58,457 - matplotlib.font_manager - WARNING - findfont: Generic family 'sans-serif' not found because none of the following families were found: Times New Roman
+2024-06-27 12:43:58,462 - matplotlib.font_manager - WARNING - findfont: Generic family 'sans-serif' not found because none of the following families were found: Times New Roman
+2024-06-27 12:43:58,465 - matplotlib.font_manager - WARNING - findfont: Generic family 'sans-serif' not found because none of the following families were found: Times New Roman
+2024-06-27 12:43:58,468 - matplotlib.font_manager - WARNING - findfont: Generic family 'sans-serif' not found because none of the following families were found: Times New Roman
+2024-06-27 12:43:58,470 - matplotlib.font_manager - WARNING - findfont: Generic family 'sans-serif' not found because none of the following families were found: Times New Roman
+2024-06-27 12:43:58,473 - matplotlib.font_manager - WARNING - findfont: Generic family 'sans-serif' not found because none of the following families were found: Times New Roman
+2024-06-27 12:43:58,477 - matplotlib.font_manager - WARNING - findfont: Generic family 'sans-serif' not found because none of the following families were found: Times New Roman
+2024-06-27 12:43:58,481 - matplotlib.font_manager - WARNING - findfont: Generic family 'sans-serif' not found because none of the following families were found: Times New Roman
+2024-06-27 12:43:58,804 - matplotlib.font_manager - WARNING - findfont: Generic family 'sans-serif' not found because none of the following families were found: Times New Roman
+2024-06-27 12:43:58,810 - matplotlib.font_manager - WARNING - findfont: Generic family 'sans-serif' not found because none of the following families were found: Times New Roman
+2024-06-27 12:43:58,814 - matplotlib.font_manager - WARNING - findfont: Generic family 'sans-serif' not found because none of the following families were found: Times New Roman
+2024-06-27 12:43:58,869 - matplotlib.font_manager - WARNING - findfont: Generic family 'sans-serif' not found because none of the following families were found: Times New Roman
+2024-06-27 12:43:58,877 - matplotlib.font_manager - WARNING - findfont: Generic family 'sans-serif' not found because none of the following families were found: Times New Roman
+2024-06-27 12:43:58,882 - matplotlib.font_manager - WARNING - findfont: Generic family 'sans-serif' not found because none of the following families were found: Times New Roman
+2024-06-27 12:43:58,893 - matplotlib.font_manager - WARNING - findfont: Generic family 'sans-serif' not found because none of the following families were found: Times New Roman
+2024-06-27 12:43:58,908 - matplotlib.font_manager - WARNING - findfont: Generic family 'sans-serif' not found because none of the following families were found: Times New Roman
+2024-06-27 12:43:58,916 - matplotlib.font_manager - WARNING - findfont: Generic family 'sans-serif' not found because none of the following families were found: Times New Roman
+2024-06-27 12:43:58,924 - matplotlib.font_manager - WARNING - findfont: Generic family 'sans-serif' not found because none of the following families were found: Times New Roman
+2024-06-27 12:43:58,932 - matplotlib.font_manager - WARNING - findfont: Generic family 'sans-serif' not found because none of the following families were found: Times New Roman
+2024-06-27 12:43:58,961 - matplotlib.font_manager - WARNING - findfont: Generic family 'sans-serif' not found because none of the following families were found: Times New Roman
+2024-06-27 12:43:58,963 - matplotlib.font_manager - WARNING - findfont: Generic family 'sans-serif' not found because none of the following families were found: Times New Roman
+2024-06-27 12:43:58,965 - matplotlib.font_manager - WARNING - findfont: Generic family 'sans-serif' not found because none of the following families were found: Times New Roman
+2024-06-27 12:43:58,971 - matplotlib.font_manager - WARNING - findfont: Generic family 'sans-serif' not found because none of the following families were found: Times New Roman
+2024-06-27 12:43:58,972 - matplotlib.font_manager - WARNING - findfont: Generic family 'sans-serif' not found because none of the following families were found: Times New Roman
+2024-06-27 12:43:58,973 - matplotlib.font_manager - WARNING - findfont: Generic family 'sans-serif' not found because none of the following families were found: Times New Roman
+2024-06-27 12:43:58,974 - matplotlib.font_manager - WARNING - findfont: Generic family 'sans-serif' not found because none of the following families were found: Times New Roman
+2024-06-27 12:43:58,979 - matplotlib.font_manager - WARNING - findfont: Generic family 'sans-serif' not found because none of the following families were found: Times New Roman
+2024-06-27 12:43:58,981 - matplotlib.font_manager - WARNING - findfont: Generic family 'sans-serif' not found because none of the following families were found: Times New Roman
+2024-06-27 12:43:58,988 - matplotlib.font_manager - WARNING - findfont: Generic family 'sans-serif' not found because none of the following families were found: Times New Roman
+2024-06-27 12:43:58,989 - matplotlib.font_manager - WARNING - findfont: Generic family 'sans-serif' not found because none of the following families were found: Times New Roman
+2024-06-27 12:43:58,996 - matplotlib.font_manager - WARNING - findfont: Generic family 'sans-serif' not found because none of the following families were found: Times New Roman
+2024-06-27 12:43:59,001 - matplotlib.font_manager - WARNING - findfont: Generic family 'sans-serif' not found because none of the following families were found: Times New Roman
+2024-06-27 12:43:59,015 - matplotlib.font_manager - WARNING - findfont: Generic family 'sans-serif' not found because none of the following families were found: Times New Roman
+2024-06-27 12:43:59,019 - matplotlib.font_manager - WARNING - findfont: Generic family 'sans-serif' not found because none of the following families were found: Times New Roman
+2024-06-27 12:43:59,021 - matplotlib.font_manager - WARNING - findfont: Generic family 'sans-serif' not found because none of the following families were found: Times New Roman
+2024-06-27 12:43:59,027 - matplotlib.font_manager - WARNING - findfont: Generic family 'sans-serif' not found because none of the following families were found: Times New Roman
+2024-06-27 12:43:59,028 - matplotlib.font_manager - WARNING - findfont: Generic family 'sans-serif' not found because none of the following families were found: Times New Roman
+2024-06-27 12:43:59,029 - matplotlib.font_manager - WARNING - findfont: Generic family 'sans-serif' not found because none of the following families were found: Times New Roman
+2024-06-27 12:43:59,030 - matplotlib.font_manager - WARNING - findfont: Generic family 'sans-serif' not found because none of the following families were found: Times New Roman
+2024-06-27 12:43:59,035 - matplotlib.font_manager - WARNING - findfont: Generic family 'sans-serif' not found because none of the following families were found: Times New Roman
+2024-06-27 12:43:59,036 - matplotlib.font_manager - WARNING - findfont: Generic family 'sans-serif' not found because none of the following families were found: Times New Roman
+2024-06-27 12:43:59,037 - matplotlib.font_manager - WARNING - findfont: Generic family 'sans-serif' not found because none of the following families were found: Times New Roman
+2024-06-27 12:43:59,038 - matplotlib.font_manager - WARNING - findfont: Generic family 'sans-serif' not found because none of the following families were found: Times New Roman
+2024-06-27 12:43:59,043 - matplotlib.font_manager - WARNING - findfont: Generic family 'sans-serif' not found because none of the following families were found: Times New Roman
+2024-06-27 12:43:59,045 - matplotlib.font_manager - WARNING - findfont: Generic family 'sans-serif' not found because none of the following families were found: Times New Roman
+2024-06-27 12:43:59,045 - matplotlib.font_manager - WARNING - findfont: Generic family 'sans-serif' not found because none of the following families were found: Times New Roman
+2024-06-27 12:43:59,046 - matplotlib.font_manager - WARNING - findfont: Generic family 'sans-serif' not found because none of the following families were found: Times New Roman
+2024-06-27 12:43:59,051 - matplotlib.font_manager - WARNING - findfont: Generic family 'sans-serif' not found because none of the following families were found: Times New Roman
+2024-06-27 12:43:59,052 - matplotlib.font_manager - WARNING - findfont: Generic family 'sans-serif' not found because none of the following families were found: Times New Roman
+2024-06-27 12:43:59,053 - matplotlib.font_manager - WARNING - findfont: Generic family 'sans-serif' not found because none of the following families were found: Times New Roman
+2024-06-27 12:43:59,054 - matplotlib.font_manager - WARNING - findfont: Generic family 'sans-serif' not found because none of the following families were found: Times New Roman
+2024-06-27 12:43:59,054 - matplotlib.font_manager - WARNING - findfont: Generic family 'sans-serif' not found because none of the following families were found: Times New Roman
+2024-06-27 12:43:59,059 - matplotlib.font_manager - WARNING - findfont: Generic family 'sans-serif' not found because none of the following families were found: Times New Roman
+2024-06-27 12:43:59,060 - matplotlib.font_manager - WARNING - findfont: Generic family 'sans-serif' not found because none of the following families were found: Times New Roman
+2024-06-27 12:43:59,061 - matplotlib.font_manager - WARNING - findfont: Generic family 'sans-serif' not found because none of the following families were found: Times New Roman
+2024-06-27 12:43:59,062 - matplotlib.font_manager - WARNING - findfont: Generic family 'sans-serif' not found because none of the following families were found: Times New Roman
+2024-06-27 12:43:59,071 - matplotlib.font_manager - WARNING - findfont: Generic family 'sans-serif' not found because none of the following families were found: Times New Roman
+2024-06-27 12:43:59,074 - matplotlib.font_manager - WARNING - findfont: Generic family 'sans-serif' not found because none of the following families were found: Times New Roman
+2024-06-27 12:43:59,077 - matplotlib.font_manager - WARNING - findfont: Generic family 'sans-serif' not found because none of the following families were found: Times New Roman
+2024-06-27 12:43:59,080 - matplotlib.font_manager - WARNING - findfont: Generic family 'sans-serif' not found because none of the following families were found: Times New Roman
+2024-06-27 12:43:59,081 - matplotlib.font_manager - WARNING - findfont: Generic family 'sans-serif' not found because none of the following families were found: Times New Roman
+2024-06-27 12:43:59,082 - matplotlib.font_manager - WARNING - findfont: Generic family 'sans-serif' not found because none of the following families were found: Times New Roman
+2024-06-27 12:43:59,083 - matplotlib.font_manager - WARNING - findfont: Generic family 'sans-serif' not found because none of the following families were found: Times New Roman
+2024-06-27 12:43:59,083 - matplotlib.font_manager - WARNING - findfont: Generic family 'sans-serif' not found because none of the following families were found: Times New Roman
+2024-06-27 12:43:59,085 - matplotlib.font_manager - WARNING - findfont: Generic family 'sans-serif' not found because none of the following families were found: Times New Roman
+2024-06-27 12:43:59,086 - matplotlib.font_manager - WARNING - findfont: Generic family 'sans-serif' not found because none of the following families were found: Times New Roman
+2024-06-27 12:43:59,088 - matplotlib.font_manager - WARNING - findfont: Generic family 'sans-serif' not found because none of the following families were found: Times New Roman
+2024-06-27 12:43:59,167 - matplotlib.font_manager - WARNING - findfont: Generic family 'sans-serif' not found because none of the following families were found: Times New Roman
+2024-06-27 12:43:59,167 - matplotlib.font_manager - WARNING - findfont: Generic family 'sans-serif' not found because none of the following families were found: Times New Roman
+2024-06-27 12:43:59,168 - matplotlib.font_manager - WARNING - findfont: Generic family 'sans-serif' not found because none of the following families were found: Times New Roman
+2024-06-27 12:43:59,169 - matplotlib.font_manager - WARNING - findfont: Generic family 'sans-serif' not found because none of the following families were found: Times New Roman
+2024-06-27 12:43:59,169 - matplotlib.font_manager - WARNING - findfont: Generic family 'sans-serif' not found because none of the following families were found: Times New Roman
+2024-06-27 12:43:59,170 - matplotlib.font_manager - WARNING - findfont: Generic family 'sans-serif' not found because none of the following families were found: Times New Roman
+2024-06-27 12:43:59,205 - matplotlib.font_manager - WARNING - findfont: Generic family 'sans-serif' not found because none of the following families were found: Times New Roman
+2024-06-27 12:43:59,233 - matplotlib.font_manager - WARNING - findfont: Generic family 'sans-serif' not found because none of the following families were found: Times New Roman
+2024-06-27 12:43:59,241 - matplotlib.font_manager - WARNING - findfont: Generic family 'sans-serif' not found because none of the following families were found: Times New Roman
+2024-06-27 12:43:59,246 - matplotlib.font_manager - WARNING - findfont: Generic family 'sans-serif' not found because none of the following families were found: Times New Roman
+2024-06-27 12:43:59,250 - matplotlib.font_manager - WARNING - findfont: Generic family 'sans-serif' not found because none of the following families were found: Times New Roman
+2024-06-27 12:43:59,253 - matplotlib.font_manager - WARNING - findfont: Generic family 'sans-serif' not found because none of the following families were found: Times New Roman
+2024-06-27 12:43:59,256 - matplotlib.font_manager - WARNING - findfont: Generic family 'sans-serif' not found because none of the following families were found: Times New Roman
+2024-06-27 12:43:59,259 - matplotlib.font_manager - WARNING - findfont: Generic family 'sans-serif' not found because none of the following families were found: Times New Roman
+2024-06-27 12:43:59,261 - matplotlib.font_manager - WARNING - findfont: Generic family 'sans-serif' not found because none of the following families were found: Times New Roman
+2024-06-27 12:43:59,297 - matplotlib.font_manager - WARNING - findfont: Generic family 'sans-serif' not found because none of the following families were found: Times New Roman
+2024-06-27 12:43:59,326 - matplotlib.font_manager - WARNING - findfont: Generic family 'sans-serif' not found because none of the following families were found: Times New Roman
+2024-06-27 12:43:59,327 - matplotlib.font_manager - WARNING - findfont: Generic family 'sans-serif' not found because none of the following families were found: Times New Roman
+2024-06-27 12:43:59,328 - matplotlib.font_manager - WARNING - findfont: Generic family 'sans-serif' not found because none of the following families were found: Times New Roman
+2024-06-27 12:43:59,329 - matplotlib.font_manager - WARNING - findfont: Generic family 'sans-serif' not found because none of the following families were found: Times New Roman
+2024-06-27 12:43:59,329 - matplotlib.font_manager - WARNING - findfont: Generic family 'sans-serif' not found because none of the following families were found: Times New Roman
+2024-06-27 12:43:59,330 - matplotlib.font_manager - WARNING - findfont: Generic family 'sans-serif' not found because none of the following families were found: Times New Roman
+2024-06-27 12:43:59,330 - matplotlib.font_manager - WARNING - findfont: Generic family 'sans-serif' not found because none of the following families were found: Times New Roman
+2024-06-27 12:43:59,331 - matplotlib.font_manager - WARNING - findfont: Generic family 'sans-serif' not found because none of the following families were found: Times New Roman
+2024-06-27 12:43:59,331 - matplotlib.font_manager - WARNING - findfont: Generic family 'sans-serif' not found because none of the following families were found: Times New Roman
+2024-06-27 12:43:59,332 - matplotlib.font_manager - WARNING - findfont: Generic family 'sans-serif' not found because none of the following families were found: Times New Roman
+2024-06-27 12:43:59,333 - matplotlib.font_manager - WARNING - findfont: Generic family 'sans-serif' not found because none of the following families were found: Times New Roman
+2024-06-27 12:43:59,333 - matplotlib.font_manager - WARNING - findfont: Generic family 'sans-serif' not found because none of the following families were found: Times New Roman
+2024-06-27 12:43:59,334 - matplotlib.font_manager - WARNING - findfont: Generic family 'sans-serif' not found because none of the following families were found: Times New Roman
+2024-06-27 12:43:59,334 - matplotlib.font_manager - WARNING - findfont: Generic family 'sans-serif' not found because none of the following families were found: Times New Roman
+2024-06-27 12:43:59,335 - matplotlib.font_manager - WARNING - findfont: Generic family 'sans-serif' not found because none of the following families were found: Times New Roman
+2024-06-27 12:43:59,338 - matplotlib.font_manager - WARNING - findfont: Generic family 'sans-serif' not found because none of the following families were found: Times New Roman
+2024-06-27 12:43:59,339 - matplotlib.font_manager - WARNING - findfont: Generic family 'sans-serif' not found because none of the following families were found: Times New Roman
+2024-06-27 12:43:59,341 - matplotlib.font_manager - WARNING - findfont: Generic family 'sans-serif' not found because none of the following families were found: Times New Roman
+2024-06-27 12:43:59,341 - matplotlib.font_manager - WARNING - findfont: Generic family 'sans-serif' not found because none of the following families were found: Times New Roman
+2024-06-27 12:43:59,342 - matplotlib.font_manager - WARNING - findfont: Generic family 'sans-serif' not found because none of the following families were found: Times New Roman
+2024-06-27 12:43:59,343 - matplotlib.font_manager - WARNING - findfont: Generic family 'sans-serif' not found because none of the following families were found: Times New Roman
+2024-06-27 12:43:59,343 - matplotlib.font_manager - WARNING - findfont: Generic family 'sans-serif' not found because none of the following families were found: Times New Roman
+2024-06-27 12:43:59,345 - matplotlib.font_manager - WARNING - findfont: Generic family 'sans-serif' not found because none of the following families were found: Times New Roman
+2024-06-27 12:43:59,361 - matplotlib.font_manager - WARNING - findfont: Generic family 'sans-serif' not found because none of the following families were found: Times New Roman
+2024-06-27 12:43:59,363 - matplotlib.font_manager - WARNING - findfont: Generic family 'sans-serif' not found because none of the following families were found: Times New Roman
+2024-06-27 12:43:59,384 - matplotlib.font_manager - WARNING - findfont: Generic family 'sans-serif' not found because none of the following families were found: Times New Roman
+2024-06-27 12:43:59,386 - matplotlib.font_manager - WARNING - findfont: Generic family 'sans-serif' not found because none of the following families were found: Times New Roman
+2024-06-27 12:43:59,425 - matplotlib.font_manager - WARNING - findfont: Generic family 'sans-serif' not found because none of the following families were found: Times New Roman
+2024-06-27 12:43:59,433 - matplotlib.font_manager - WARNING - findfont: Generic family 'sans-serif' not found because none of the following families were found: Times New Roman
+2024-06-27 12:43:59,530 - matplotlib.font_manager - WARNING - findfont: Generic family 'sans-serif' not found because none of the following families were found: Times New Roman
+2024-06-27 12:43:59,542 - matplotlib.font_manager - WARNING - findfont: Generic family 'sans-serif' not found because none of the following families were found: Times New Roman
+2024-06-27 12:43:59,546 - matplotlib.font_manager - WARNING - findfont: Generic family 'sans-serif' not found because none of the following families were found: Times New Roman
+2024-06-27 12:43:59,551 - matplotlib.font_manager - WARNING - findfont: Generic family 'sans-serif' not found because none of the following families were found: Times New Roman
+2024-06-27 12:43:59,555 - matplotlib.font_manager - WARNING - findfont: Generic family 'sans-serif' not found because none of the following families were found: Times New Roman
+2024-06-27 12:43:59,564 - matplotlib.font_manager - WARNING - findfont: Generic family 'sans-serif' not found because none of the following families were found: Times New Roman
+2024-06-27 12:43:59,566 - matplotlib.font_manager - WARNING - findfont: Generic family 'sans-serif' not found because none of the following families were found: Times New Roman
+2024-06-27 12:43:59,568 - matplotlib.font_manager - WARNING - findfont: Generic family 'sans-serif' not found because none of the following families were found: Times New Roman
+2024-06-27 12:43:59,570 - matplotlib.font_manager - WARNING - findfont: Generic family 'sans-serif' not found because none of the following families were found: Times New Roman
+2024-06-27 12:43:59,571 - matplotlib.font_manager - WARNING - findfont: Generic family 'sans-serif' not found because none of the following families were found: Times New Roman
+2024-06-27 12:43:59,601 - matplotlib.font_manager - WARNING - findfont: Generic family 'sans-serif' not found because none of the following families were found: Times New Roman
+2024-06-27 12:43:59,613 - matplotlib.font_manager - WARNING - findfont: Generic family 'sans-serif' not found because none of the following families were found: Times New Roman
+2024-06-27 12:43:59,614 - matplotlib.font_manager - WARNING - findfont: Generic family 'sans-serif' not found because none of the following families were found: Times New Roman
+2024-06-27 12:43:59,615 - matplotlib.font_manager - WARNING - findfont: Generic family 'sans-serif' not found because none of the following families were found: Times New Roman
+2024-06-27 12:43:59,616 - matplotlib.font_manager - WARNING - findfont: Generic family 'sans-serif' not found because none of the following families were found: Times New Roman
+2024-06-27 12:43:59,617 - matplotlib.font_manager - WARNING - findfont: Generic family 'sans-serif' not found because none of the following families were found: Times New Roman
+2024-06-27 12:43:59,618 - matplotlib.font_manager - WARNING - findfont: Generic family 'sans-serif' not found because none of the following families were found: Times New Roman
+2024-06-27 12:43:59,618 - matplotlib.font_manager - WARNING - findfont: Generic family 'sans-serif' not found because none of the following families were found: Times New Roman
+2024-06-27 12:43:59,619 - matplotlib.font_manager - WARNING - findfont: Generic family 'sans-serif' not found because none of the following families were found: Times New Roman
+2024-06-27 12:43:59,620 - matplotlib.font_manager - WARNING - findfont: Generic family 'sans-serif' not found because none of the following families were found: Times New Roman
+2024-06-27 12:43:59,622 - matplotlib.font_manager - WARNING - findfont: Generic family 'sans-serif' not found because none of the following families were found: Times New Roman
+2024-06-27 12:43:59,624 - matplotlib.font_manager - WARNING - findfont: Generic family 'sans-serif' not found because none of the following families were found: Times New Roman
+2024-06-27 12:43:59,626 - matplotlib.font_manager - WARNING - findfont: Generic family 'sans-serif' not found because none of the following families were found: Times New Roman
+2024-06-27 12:43:59,628 - matplotlib.font_manager - WARNING - findfont: Generic family 'sans-serif' not found because none of the following families were found: Times New Roman
+2024-06-27 12:43:59,630 - matplotlib.font_manager - WARNING - findfont: Generic family 'sans-serif' not found because none of the following families were found: Times New Roman
+2024-06-27 12:43:59,632 - matplotlib.font_manager - WARNING - findfont: Generic family 'sans-serif' not found because none of the following families were found: Times New Roman
+2024-06-27 12:43:59,633 - matplotlib.font_manager - WARNING - findfont: Generic family 'sans-serif' not found because none of the following families were found: Times New Roman
+2024-06-27 12:43:59,635 - matplotlib.font_manager - WARNING - findfont: Generic family 'sans-serif' not found because none of the following families were found: Times New Roman
+2024-06-27 12:43:59,637 - matplotlib.font_manager - WARNING - findfont: Generic family 'sans-serif' not found because none of the following families were found: Times New Roman
+2024-06-27 12:43:59,651 - matplotlib.font_manager - WARNING - findfont: Generic family 'sans-serif' not found because none of the following families were found: Times New Roman
+2024-06-27 12:43:59,653 - matplotlib.font_manager - WARNING - findfont: Generic family 'sans-serif' not found because none of the following families were found: Times New Roman
+2024-06-27 12:43:59,657 - matplotlib.font_manager - WARNING - findfont: Generic family 'sans-serif' not found because none of the following families were found: Times New Roman
+2024-06-27 12:43:59,658 - matplotlib.font_manager - WARNING - findfont: Generic family 'sans-serif' not found because none of the following families were found: Times New Roman
+2024-06-27 12:43:59,659 - matplotlib.font_manager - WARNING - findfont: Generic family 'sans-serif' not found because none of the following families were found: Times New Roman
+2024-06-27 12:43:59,660 - matplotlib.font_manager - WARNING - findfont: Generic family 'sans-serif' not found because none of the following families were found: Times New Roman
+2024-06-27 12:43:59,660 - matplotlib.font_manager - WARNING - findfont: Generic family 'sans-serif' not found because none of the following families were found: Times New Roman
+2024-06-27 12:43:59,661 - matplotlib.font_manager - WARNING - findfont: Generic family 'sans-serif' not found because none of the following families were found: Times New Roman
+2024-06-27 12:43:59,662 - matplotlib.font_manager - WARNING - findfont: Generic family 'sans-serif' not found because none of the following families were found: Times New Roman
+2024-06-27 12:43:59,662 - matplotlib.font_manager - WARNING - findfont: Generic family 'sans-serif' not found because none of the following families were found: Times New Roman
+2024-06-27 12:43:59,663 - matplotlib.font_manager - WARNING - findfont: Generic family 'sans-serif' not found because none of the following families were found: Times New Roman
+2024-06-27 12:43:59,663 - matplotlib.font_manager - WARNING - findfont: Generic family 'sans-serif' not found because none of the following families were found: Times New Roman
+2024-06-27 12:43:59,664 - matplotlib.font_manager - WARNING - findfont: Generic family 'sans-serif' not found because none of the following families were found: Times New Roman
+2024-06-27 12:43:59,665 - matplotlib.font_manager - WARNING - findfont: Generic family 'sans-serif' not found because none of the following families were found: Times New Roman
+2024-06-27 12:43:59,666 - matplotlib.font_manager - WARNING - findfont: Generic family 'sans-serif' not found because none of the following families were found: Times New Roman
+2024-06-27 12:43:59,666 - matplotlib.font_manager - WARNING - findfont: Generic family 'sans-serif' not found because none of the following families were found: Times New Roman
+2024-06-27 12:43:59,667 - matplotlib.font_manager - WARNING - findfont: Generic family 'sans-serif' not found because none of the following families were found: Times New Roman
+2024-06-27 12:43:59,668 - matplotlib.font_manager - WARNING - findfont: Generic family 'sans-serif' not found because none of the following families were found: Times New Roman
+2024-06-27 12:43:59,669 - matplotlib.font_manager - WARNING - findfont: Generic family 'sans-serif' not found because none of the following families were found: Times New Roman
+2024-06-27 12:43:59,669 - matplotlib.font_manager - WARNING - findfont: Generic family 'sans-serif' not found because none of the following families were found: Times New Roman
+2024-06-27 12:43:59,670 - matplotlib.font_manager - WARNING - findfont: Generic family 'sans-serif' not found because none of the following families were found: Times New Roman
+2024-06-27 12:43:59,671 - matplotlib.font_manager - WARNING - findfont: Generic family 'sans-serif' not found because none of the following families were found: Times New Roman
+2024-06-27 12:43:59,672 - matplotlib.font_manager - WARNING - findfont: Generic family 'sans-serif' not found because none of the following families were found: Times New Roman
+2024-06-27 12:43:59,673 - matplotlib.font_manager - WARNING - findfont: Generic family 'sans-serif' not found because none of the following families were found: Times New Roman
+2024-06-27 12:43:59,674 - matplotlib.font_manager - WARNING - findfont: Generic family 'sans-serif' not found because none of the following families were found: Times New Roman
+2024-06-27 12:43:59,675 - matplotlib.font_manager - WARNING - findfont: Generic family 'sans-serif' not found because none of the following families were found: Times New Roman
+2024-06-27 12:43:59,676 - matplotlib.font_manager - WARNING - findfont: Generic family 'sans-serif' not found because none of the following families were found: Times New Roman
+2024-06-27 12:43:59,680 - matplotlib.font_manager - WARNING - findfont: Generic family 'sans-serif' not found because none of the following families were found: Times New Roman
+2024-06-27 12:43:59,682 - matplotlib.font_manager - WARNING - findfont: Generic family 'sans-serif' not found because none of the following families were found: Times New Roman
+2024-06-27 12:43:59,686 - matplotlib.font_manager - WARNING - findfont: Generic family 'sans-serif' not found because none of the following families were found: Times New Roman
+2024-06-27 12:43:59,688 - matplotlib.font_manager - WARNING - findfont: Generic family 'sans-serif' not found because none of the following families were found: Times New Roman
+2024-06-27 12:43:59,691 - matplotlib.font_manager - WARNING - findfont: Generic family 'sans-serif' not found because none of the following families were found: Times New Roman
+2024-06-27 12:43:59,693 - matplotlib.font_manager - WARNING - findfont: Generic family 'sans-serif' not found because none of the following families were found: Times New Roman
+2024-06-27 12:43:59,695 - matplotlib.font_manager - WARNING - findfont: Generic family 'sans-serif' not found because none of the following families were found: Times New Roman
+2024-06-27 12:43:59,698 - matplotlib.font_manager - WARNING - findfont: Generic family 'sans-serif' not found because none of the following families were found: Times New Roman
+2024-06-27 12:43:59,699 - matplotlib.font_manager - WARNING - findfont: Generic family 'sans-serif' not found because none of the following families were found: Times New Roman
+2024-06-27 12:43:59,701 - matplotlib.font_manager - WARNING - findfont: Generic family 'sans-serif' not found because none of the following families were found: Times New Roman
+2024-06-27 12:43:59,781 - matplotlib.font_manager - WARNING - findfont: Generic family 'sans-serif' not found because none of the following families were found: Times New Roman
+2024-06-27 12:43:59,783 - matplotlib.font_manager - WARNING - findfont: Generic family 'sans-serif' not found because none of the following families were found: Times New Roman
+2024-06-27 12:43:59,784 - matplotlib.font_manager - WARNING - findfont: Generic family 'sans-serif' not found because none of the following families were found: Times New Roman
+2024-06-27 12:43:59,786 - matplotlib.font_manager - WARNING - findfont: Generic family 'sans-serif' not found because none of the following families were found: Times New Roman
+2024-06-27 12:43:59,787 - matplotlib.font_manager - WARNING - findfont: Generic family 'sans-serif' not found because none of the following families were found: Times New Roman
+2024-06-27 12:43:59,788 - matplotlib.font_manager - WARNING - findfont: Generic family 'sans-serif' not found because none of the following families were found: Times New Roman
+2024-06-27 12:43:59,790 - matplotlib.font_manager - WARNING - findfont: Generic family 'sans-serif' not found because none of the following families were found: Times New Roman
+2024-06-27 12:43:59,793 - matplotlib.font_manager - WARNING - findfont: Generic family 'sans-serif' not found because none of the following families were found: Times New Roman
+2024-06-27 12:43:59,795 - matplotlib.font_manager - WARNING - findfont: Generic family 'sans-serif' not found because none of the following families were found: Times New Roman
+2024-06-27 12:43:59,797 - matplotlib.font_manager - WARNING - findfont: Generic family 'sans-serif' not found because none of the following families were found: Times New Roman
+2024-06-27 12:43:59,800 - matplotlib.font_manager - WARNING - findfont: Generic family 'sans-serif' not found because none of the following families were found: Times New Roman
+2024-06-27 12:43:59,807 - matplotlib.font_manager - WARNING - findfont: Generic family 'sans-serif' not found because none of the following families were found: Times New Roman
+2024-06-27 12:43:59,809 - matplotlib.font_manager - WARNING - findfont: Generic family 'sans-serif' not found because none of the following families were found: Times New Roman
+2024-06-27 12:43:59,811 - matplotlib.font_manager - WARNING - findfont: Generic family 'sans-serif' not found because none of the following families were found: Times New Roman
+2024-06-27 12:43:59,812 - matplotlib.font_manager - WARNING - findfont: Generic family 'sans-serif' not found because none of the following families were found: Times New Roman
+2024-06-27 12:43:59,812 - matplotlib.font_manager - WARNING - findfont: Generic family 'sans-serif' not found because none of the following families were found: Times New Roman
+2024-06-27 12:43:59,813 - matplotlib.font_manager - WARNING - findfont: Generic family 'sans-serif' not found because none of the following families were found: Times New Roman
+2024-06-27 12:43:59,814 - matplotlib.font_manager - WARNING - findfont: Generic family 'sans-serif' not found because none of the following families were found: Times New Roman
+2024-06-27 12:43:59,814 - matplotlib.font_manager - WARNING - findfont: Generic family 'sans-serif' not found because none of the following families were found: Times New Roman
+2024-06-27 12:43:59,816 - matplotlib.font_manager - WARNING - findfont: Generic family 'sans-serif' not found because none of the following families were found: Times New Roman
+2024-06-27 12:43:59,819 - matplotlib.font_manager - WARNING - findfont: Generic family 'sans-serif' not found because none of the following families were found: Times New Roman
+2024-06-27 12:43:59,821 - matplotlib.font_manager - WARNING - findfont: Generic family 'sans-serif' not found because none of the following families were found: Times New Roman
+2024-06-27 12:43:59,845 - matplotlib.font_manager - WARNING - findfont: Generic family 'sans-serif' not found because none of the following families were found: Times New Roman
+2024-06-27 12:43:59,849 - matplotlib.font_manager - WARNING - findfont: Generic family 'sans-serif' not found because none of the following families were found: Times New Roman
+2024-06-27 12:43:59,852 - matplotlib.font_manager - WARNING - findfont: Generic family 'sans-serif' not found because none of the following families were found: Times New Roman
+2024-06-27 12:43:59,855 - matplotlib.font_manager - WARNING - findfont: Generic family 'sans-serif' not found because none of the following families were found: Times New Roman
+2024-06-27 12:43:59,858 - matplotlib.font_manager - WARNING - findfont: Generic family 'sans-serif' not found because none of the following families were found: Times New Roman
+2024-06-27 12:43:59,861 - matplotlib.font_manager - WARNING - findfont: Generic family 'sans-serif' not found because none of the following families were found: Times New Roman
+2024-06-27 12:43:59,864 - matplotlib.font_manager - WARNING - findfont: Generic family 'sans-serif' not found because none of the following families were found: Times New Roman
+2024-06-27 12:43:59,878 - matplotlib.font_manager - WARNING - findfont: Generic family 'sans-serif' not found because none of the following families were found: Times New Roman
+2024-06-27 12:43:59,881 - matplotlib.font_manager - WARNING - findfont: Generic family 'sans-serif' not found because none of the following families were found: Times New Roman
+2024-06-27 12:43:59,888 - matplotlib.font_manager - WARNING - findfont: Generic family 'sans-serif' not found because none of the following families were found: Times New Roman
+2024-06-27 12:43:59,890 - matplotlib.font_manager - WARNING - findfont: Generic family 'sans-serif' not found because none of the following families were found: Times New Roman
+2024-06-27 12:43:59,892 - matplotlib.font_manager - WARNING - findfont: Generic family 'sans-serif' not found because none of the following families were found: Times New Roman
+2024-06-27 12:43:59,895 - matplotlib.font_manager - WARNING - findfont: Generic family 'sans-serif' not found because none of the following families were found: Times New Roman
+2024-06-27 12:43:59,897 - matplotlib.font_manager - WARNING - findfont: Generic family 'sans-serif' not found because none of the following families were found: Times New Roman
+2024-06-27 12:43:59,899 - matplotlib.font_manager - WARNING - findfont: Generic family 'sans-serif' not found because none of the following families were found: Times New Roman
+2024-06-27 12:43:59,901 - matplotlib.font_manager - WARNING - findfont: Generic family 'sans-serif' not found because none of the following families were found: Times New Roman
+2024-06-27 12:43:59,903 - matplotlib.font_manager - WARNING - findfont: Generic family 'sans-serif' not found because none of the following families were found: Times New Roman
+2024-06-27 12:43:59,905 - matplotlib.font_manager - WARNING - findfont: Generic family 'sans-serif' not found because none of the following families were found: Times New Roman
+2024-06-27 12:43:59,907 - matplotlib.font_manager - WARNING - findfont: Generic family 'sans-serif' not found because none of the following families were found: Times New Roman
+2024-06-27 12:43:59,938 - matplotlib.font_manager - WARNING - findfont: Generic family 'sans-serif' not found because none of the following families were found: Times New Roman
+2024-06-27 12:43:59,940 - matplotlib.font_manager - WARNING - findfont: Generic family 'sans-serif' not found because none of the following families were found: Times New Roman
+2024-06-27 12:43:59,943 - matplotlib.font_manager - WARNING - findfont: Generic family 'sans-serif' not found because none of the following families were found: Times New Roman
+2024-06-27 12:43:59,945 - matplotlib.font_manager - WARNING - findfont: Generic family 'sans-serif' not found because none of the following families were found: Times New Roman
+2024-06-27 12:43:59,947 - matplotlib.font_manager - WARNING - findfont: Generic family 'sans-serif' not found because none of the following families were found: Times New Roman
+2024-06-27 12:43:59,950 - matplotlib.font_manager - WARNING - findfont: Generic family 'sans-serif' not found because none of the following families were found: Times New Roman
+2024-06-27 12:43:59,952 - matplotlib.font_manager - WARNING - findfont: Generic family 'sans-serif' not found because none of the following families were found: Times New Roman
+2024-06-27 12:43:59,954 - matplotlib.font_manager - WARNING - findfont: Generic family 'sans-serif' not found because none of the following families were found: Times New Roman
+2024-06-27 12:43:59,956 - matplotlib.font_manager - WARNING - findfont: Generic family 'sans-serif' not found because none of the following families were found: Times New Roman
+2024-06-27 12:43:59,958 - matplotlib.font_manager - WARNING - findfont: Generic family 'sans-serif' not found because none of the following families were found: Times New Roman
+2024-06-27 12:43:59,960 - matplotlib.font_manager - WARNING - findfont: Generic family 'sans-serif' not found because none of the following families were found: Times New Roman
+2024-06-27 12:43:59,962 - matplotlib.font_manager - WARNING - findfont: Generic family 'sans-serif' not found because none of the following families were found: Times New Roman
+2024-06-27 12:43:59,963 - matplotlib.font_manager - WARNING - findfont: Generic family 'sans-serif' not found because none of the following families were found: Times New Roman
+2024-06-27 12:43:59,965 - matplotlib.font_manager - WARNING - findfont: Generic family 'sans-serif' not found because none of the following families were found: Times New Roman
+2024-06-27 12:43:59,966 - matplotlib.font_manager - WARNING - findfont: Generic family 'sans-serif' not found because none of the following families were found: Times New Roman
+2024-06-27 12:43:59,973 - matplotlib.font_manager - WARNING - findfont: Generic family 'sans-serif' not found because none of the following families were found: Times New Roman
+2024-06-27 12:43:59,976 - matplotlib.font_manager - WARNING - findfont: Generic family 'sans-serif' not found because none of the following families were found: Times New Roman
+2024-06-27 12:43:59,981 - matplotlib.font_manager - WARNING - findfont: Generic family 'sans-serif' not found because none of the following families were found: Times New Roman
+2024-06-27 12:43:59,985 - matplotlib.font_manager - WARNING - findfont: Generic family 'sans-serif' not found because none of the following families were found: Times New Roman
+2024-06-27 12:43:59,989 - matplotlib.font_manager - WARNING - findfont: Generic family 'sans-serif' not found because none of the following families were found: Times New Roman
+2024-06-27 12:43:59,990 - matplotlib.font_manager - WARNING - findfont: Generic family 'sans-serif' not found because none of the following families were found: Times New Roman
+2024-06-27 12:43:59,992 - matplotlib.font_manager - WARNING - findfont: Generic family 'sans-serif' not found because none of the following families were found: Times New Roman
+2024-06-27 12:43:59,995 - matplotlib.font_manager - WARNING - findfont: Generic family 'sans-serif' not found because none of the following families were found: Times New Roman
+2024-06-27 12:43:59,997 - matplotlib.font_manager - WARNING - findfont: Generic family 'sans-serif' not found because none of the following families were found: Times New Roman
+2024-06-27 12:44:00,001 - matplotlib.font_manager - WARNING - findfont: Generic family 'sans-serif' not found because none of the following families were found: Times New Roman
+2024-06-27 12:44:00,095 - matplotlib.font_manager - WARNING - findfont: Generic family 'sans-serif' not found because none of the following families were found: Times New Roman
+2024-06-27 12:44:00,096 - matplotlib.font_manager - WARNING - findfont: Generic family 'sans-serif' not found because none of the following families were found: Times New Roman
+2024-06-27 12:44:00,098 - matplotlib.font_manager - WARNING - findfont: Generic family 'sans-serif' not found because none of the following families were found: Times New Roman
+2024-06-27 12:44:00,100 - matplotlib.font_manager - WARNING - findfont: Generic family 'sans-serif' not found because none of the following families were found: Times New Roman
+2024-06-27 12:44:00,101 - matplotlib.font_manager - WARNING - findfont: Generic family 'sans-serif' not found because none of the following families were found: Times New Roman
+2024-06-27 12:44:00,103 - matplotlib.font_manager - WARNING - findfont: Generic family 'sans-serif' not found because none of the following families were found: Times New Roman
+2024-06-27 12:44:00,114 - matplotlib.font_manager - WARNING - findfont: Generic family 'sans-serif' not found because none of the following families were found: Times New Roman
+2024-06-27 12:44:00,117 - matplotlib.font_manager - WARNING - findfont: Generic family 'sans-serif' not found because none of the following families were found: Times New Roman
+2024-06-27 12:44:00,119 - matplotlib.font_manager - WARNING - findfont: Generic family 'sans-serif' not found because none of the following families were found: Times New Roman
+2024-06-27 12:44:00,120 - matplotlib.font_manager - WARNING - findfont: Generic family 'sans-serif' not found because none of the following families were found: Times New Roman
+2024-06-27 12:44:00,121 - matplotlib.font_manager - WARNING - findfont: Generic family 'sans-serif' not found because none of the following families were found: Times New Roman
+2024-06-27 12:44:00,122 - matplotlib.font_manager - WARNING - findfont: Generic family 'sans-serif' not found because none of the following families were found: Times New Roman
+2024-06-27 12:44:00,123 - matplotlib.font_manager - WARNING - findfont: Generic family 'sans-serif' not found because none of the following families were found: Times New Roman
+2024-06-27 12:44:00,134 - matplotlib.font_manager - WARNING - findfont: Generic family 'sans-serif' not found because none of the following families were found: Times New Roman
+2024-06-27 12:44:00,137 - matplotlib.font_manager - WARNING - findfont: Generic family 'sans-serif' not found because none of the following families were found: Times New Roman
+2024-06-27 12:44:00,139 - matplotlib.font_manager - WARNING - findfont: Generic family 'sans-serif' not found because none of the following families were found: Times New Roman
+2024-06-27 12:44:00,140 - matplotlib.font_manager - WARNING - findfont: Generic family 'sans-serif' not found because none of the following families were found: Times New Roman
+2024-06-27 12:44:00,142 - matplotlib.font_manager - WARNING - findfont: Generic family 'sans-serif' not found because none of the following families were found: Times New Roman
+2024-06-27 12:44:00,144 - matplotlib.font_manager - WARNING - findfont: Generic family 'sans-serif' not found because none of the following families were found: Times New Roman
+2024-06-27 12:44:00,145 - matplotlib.font_manager - WARNING - findfont: Generic family 'sans-serif' not found because none of the following families were found: Times New Roman
+2024-06-27 12:44:00,147 - matplotlib.font_manager - WARNING - findfont: Generic family 'sans-serif' not found because none of the following families were found: Times New Roman
+2024-06-27 12:44:00,148 - matplotlib.font_manager - WARNING - findfont: Generic family 'sans-serif' not found because none of the following families were found: Times New Roman
+2024-06-27 12:44:00,149 - matplotlib.font_manager - WARNING - findfont: Generic family 'sans-serif' not found because none of the following families were found: Times New Roman
+2024-06-27 12:44:00,151 - matplotlib.font_manager - WARNING - findfont: Generic family 'sans-serif' not found because none of the following families were found: Times New Roman
+2024-06-27 12:44:00,153 - matplotlib.font_manager - WARNING - findfont: Generic family 'sans-serif' not found because none of the following families were found: Times New Roman
+2024-06-27 12:44:00,154 - matplotlib.font_manager - WARNING - findfont: Generic family 'sans-serif' not found because none of the following families were found: Times New Roman
+2024-06-27 12:44:00,155 - matplotlib.font_manager - WARNING - findfont: Generic family 'sans-serif' not found because none of the following families were found: Times New Roman
+2024-06-27 12:44:00,156 - matplotlib.font_manager - WARNING - findfont: Generic family 'sans-serif' not found because none of the following families were found: Times New Roman
+2024-06-27 12:44:00,157 - matplotlib.font_manager - WARNING - findfont: Generic family 'sans-serif' not found because none of the following families were found: Times New Roman
+2024-06-27 12:44:00,159 - matplotlib.font_manager - WARNING - findfont: Generic family 'sans-serif' not found because none of the following families were found: Times New Roman
+2024-06-27 12:44:00,161 - matplotlib.font_manager - WARNING - findfont: Generic family 'sans-serif' not found because none of the following families were found: Times New Roman
+2024-06-27 12:44:00,164 - matplotlib.font_manager - WARNING - findfont: Generic family 'sans-serif' not found because none of the following families were found: Times New Roman
+2024-06-27 12:44:00,165 - matplotlib.font_manager - WARNING - findfont: Generic family 'sans-serif' not found because none of the following families were found: Times New Roman
+2024-06-27 12:44:00,166 - matplotlib.font_manager - WARNING - findfont: Generic family 'sans-serif' not found because none of the following families were found: Times New Roman
+2024-06-27 12:44:00,167 - matplotlib.font_manager - WARNING - findfont: Generic family 'sans-serif' not found because none of the following families were found: Times New Roman
+2024-06-27 12:44:00,168 - matplotlib.font_manager - WARNING - findfont: Generic family 'sans-serif' not found because none of the following families were found: Times New Roman
+2024-06-27 12:44:00,171 - matplotlib.font_manager - WARNING - findfont: Generic family 'sans-serif' not found because none of the following families were found: Times New Roman
+2024-06-27 12:44:00,214 - matplotlib.font_manager - WARNING - findfont: Generic family 'sans-serif' not found because none of the following families were found: Times New Roman
+2024-06-27 12:44:00,217 - matplotlib.font_manager - WARNING - findfont: Generic family 'sans-serif' not found because none of the following families were found: Times New Roman
+2024-06-27 12:44:00,236 - matplotlib.font_manager - WARNING - findfont: Generic family 'sans-serif' not found because none of the following families were found: Times New Roman
+2024-06-27 12:44:00,238 - matplotlib.font_manager - WARNING - findfont: Generic family 'sans-serif' not found because none of the following families were found: Times New Roman
+2024-06-27 12:44:00,279 - matplotlib.font_manager - WARNING - findfont: Generic family 'sans-serif' not found because none of the following families were found: Times New Roman
+2024-06-27 12:44:00,282 - matplotlib.font_manager - WARNING - findfont: Generic family 'sans-serif' not found because none of the following families were found: Times New Roman
+2024-06-27 12:44:00,339 - matplotlib.font_manager - WARNING - findfont: Generic family 'sans-serif' not found because none of the following families were found: Times New Roman
+2024-06-27 12:44:00,340 - matplotlib.font_manager - WARNING - findfont: Generic family 'sans-serif' not found because none of the following families were found: Times New Roman
+2024-06-27 12:44:00,341 - matplotlib.font_manager - WARNING - findfont: Generic family 'sans-serif' not found because none of the following families were found: Times New Roman
+2024-06-27 12:44:00,342 - matplotlib.font_manager - WARNING - findfont: Generic family 'sans-serif' not found because none of the following families were found: Times New Roman
+2024-06-27 12:44:00,343 - matplotlib.font_manager - WARNING - findfont: Generic family 'sans-serif' not found because none of the following families were found: Times New Roman
+2024-06-27 12:44:00,344 - matplotlib.font_manager - WARNING - findfont: Generic family 'sans-serif' not found because none of the following families were found: Times New Roman
+2024-06-27 12:44:00,345 - matplotlib.font_manager - WARNING - findfont: Generic family 'sans-serif' not found because none of the following families were found: Times New Roman
+2024-06-27 12:44:00,347 - matplotlib.font_manager - WARNING - findfont: Generic family 'sans-serif' not found because none of the following families were found: Times New Roman
+2024-06-27 12:44:00,348 - matplotlib.font_manager - WARNING - findfont: Generic family 'sans-serif' not found because none of the following families were found: Times New Roman
+2024-06-27 12:44:00,350 - matplotlib.font_manager - WARNING - findfont: Generic family 'sans-serif' not found because none of the following families were found: Times New Roman
+2024-06-27 12:44:00,352 - matplotlib.font_manager - WARNING - findfont: Generic family 'sans-serif' not found because none of the following families were found: Times New Roman
+2024-06-27 12:44:00,358 - matplotlib.font_manager - WARNING - findfont: Generic family 'sans-serif' not found because none of the following families were found: Times New Roman
+2024-06-27 12:44:00,359 - matplotlib.font_manager - WARNING - findfont: Generic family 'sans-serif' not found because none of the following families were found: Times New Roman
+2024-06-27 12:44:00,361 - matplotlib.font_manager - WARNING - findfont: Generic family 'sans-serif' not found because none of the following families were found: Times New Roman
+2024-06-27 12:44:00,362 - matplotlib.font_manager - WARNING - findfont: Generic family 'sans-serif' not found because none of the following families were found: Times New Roman
+2024-06-27 12:44:00,363 - matplotlib.font_manager - WARNING - findfont: Generic family 'sans-serif' not found because none of the following families were found: Times New Roman
+2024-06-27 12:44:00,364 - matplotlib.font_manager - WARNING - findfont: Generic family 'sans-serif' not found because none of the following families were found: Times New Roman
+2024-06-27 12:44:00,364 - matplotlib.font_manager - WARNING - findfont: Generic family 'sans-serif' not found because none of the following families were found: Times New Roman
+2024-06-27 12:44:00,366 - matplotlib.font_manager - WARNING - findfont: Generic family 'sans-serif' not found because none of the following families were found: Times New Roman
+2024-06-27 12:44:00,368 - matplotlib.font_manager - WARNING - findfont: Generic family 'sans-serif' not found because none of the following families were found: Times New Roman
+2024-06-27 12:44:00,370 - matplotlib.font_manager - WARNING - findfont: Generic family 'sans-serif' not found because none of the following families were found: Times New Roman
+2024-06-27 12:44:00,372 - matplotlib.font_manager - WARNING - findfont: Generic family 'sans-serif' not found because none of the following families were found: Times New Roman
+2024-06-27 12:44:00,374 - matplotlib.font_manager - WARNING - findfont: Generic family 'sans-serif' not found because none of the following families were found: Times New Roman
+2024-06-27 12:44:00,375 - matplotlib.font_manager - WARNING - findfont: Generic family 'sans-serif' not found because none of the following families were found: Times New Roman
+2024-06-27 12:44:00,377 - matplotlib.font_manager - WARNING - findfont: Generic family 'sans-serif' not found because none of the following families were found: Times New Roman
+2024-06-27 12:44:00,384 - matplotlib.font_manager - WARNING - findfont: Generic family 'sans-serif' not found because none of the following families were found: Times New Roman
+2024-06-27 12:44:00,386 - matplotlib.font_manager - WARNING - findfont: Generic family 'sans-serif' not found because none of the following families were found: Times New Roman
+2024-06-27 12:44:00,391 - matplotlib.font_manager - WARNING - findfont: Generic family 'sans-serif' not found because none of the following families were found: Times New Roman
+2024-06-27 12:44:00,392 - matplotlib.font_manager - WARNING - findfont: Generic family 'sans-serif' not found because none of the following families were found: Times New Roman
+2024-06-27 12:44:00,394 - matplotlib.font_manager - WARNING - findfont: Generic family 'sans-serif' not found because none of the following families were found: Times New Roman
+2024-06-27 12:44:00,395 - matplotlib.font_manager - WARNING - findfont: Generic family 'sans-serif' not found because none of the following families were found: Times New Roman
+2024-06-27 12:44:00,397 - matplotlib.font_manager - WARNING - findfont: Generic family 'sans-serif' not found because none of the following families were found: Times New Roman
+2024-06-27 12:44:00,398 - matplotlib.font_manager - WARNING - findfont: Generic family 'sans-serif' not found because none of the following families were found: Times New Roman
+2024-06-27 12:44:00,399 - matplotlib.font_manager - WARNING - findfont: Generic family 'sans-serif' not found because none of the following families were found: Times New Roman
+2024-06-27 12:44:00,400 - matplotlib.font_manager - WARNING - findfont: Generic family 'sans-serif' not found because none of the following families were found: Times New Roman
+2024-06-27 12:44:00,401 - matplotlib.font_manager - WARNING - findfont: Generic family 'sans-serif' not found because none of the following families were found: Times New Roman
+2024-06-27 12:44:00,402 - matplotlib.font_manager - WARNING - findfont: Generic family 'sans-serif' not found because none of the following families were found: Times New Roman
+2024-06-27 12:44:00,403 - matplotlib.font_manager - WARNING - findfont: Generic family 'sans-serif' not found because none of the following families were found: Times New Roman
+2024-06-27 12:44:00,403 - matplotlib.font_manager - WARNING - findfont: Generic family 'sans-serif' not found because none of the following families were found: Times New Roman
+2024-06-27 12:44:00,404 - matplotlib.font_manager - WARNING - findfont: Generic family 'sans-serif' not found because none of the following families were found: Times New Roman
+2024-06-27 12:44:00,405 - matplotlib.font_manager - WARNING - findfont: Generic family 'sans-serif' not found because none of the following families were found: Times New Roman
+2024-06-27 12:44:00,406 - matplotlib.font_manager - WARNING - findfont: Generic family 'sans-serif' not found because none of the following families were found: Times New Roman
+2024-06-27 12:44:00,406 - matplotlib.font_manager - WARNING - findfont: Generic family 'sans-serif' not found because none of the following families were found: Times New Roman
+2024-06-27 12:44:00,408 - matplotlib.font_manager - WARNING - findfont: Generic family 'sans-serif' not found because none of the following families were found: Times New Roman
+2024-06-27 12:44:00,409 - matplotlib.font_manager - WARNING - findfont: Generic family 'sans-serif' not found because none of the following families were found: Times New Roman
+2024-06-27 12:44:00,409 - matplotlib.font_manager - WARNING - findfont: Generic family 'sans-serif' not found because none of the following families were found: Times New Roman
+2024-06-27 12:44:00,410 - matplotlib.font_manager - WARNING - findfont: Generic family 'sans-serif' not found because none of the following families were found: Times New Roman
+2024-06-27 12:44:00,411 - matplotlib.font_manager - WARNING - findfont: Generic family 'sans-serif' not found because none of the following families were found: Times New Roman
+2024-06-27 12:44:00,411 - matplotlib.font_manager - WARNING - findfont: Generic family 'sans-serif' not found because none of the following families were found: Times New Roman
+2024-06-27 12:44:00,412 - matplotlib.font_manager - WARNING - findfont: Generic family 'sans-serif' not found because none of the following families were found: Times New Roman
+2024-06-27 12:44:00,413 - matplotlib.font_manager - WARNING - findfont: Generic family 'sans-serif' not found because none of the following families were found: Times New Roman
+2024-06-27 12:44:00,413 - matplotlib.font_manager - WARNING - findfont: Generic family 'sans-serif' not found because none of the following families were found: Times New Roman
+2024-06-27 12:44:00,416 - matplotlib.font_manager - WARNING - findfont: Generic family 'sans-serif' not found because none of the following families were found: Times New Roman
+2024-06-27 12:44:00,417 - matplotlib.font_manager - WARNING - findfont: Generic family 'sans-serif' not found because none of the following families were found: Times New Roman
+2024-06-27 12:44:00,419 - matplotlib.font_manager - WARNING - findfont: Generic family 'sans-serif' not found because none of the following families were found: Times New Roman
+2024-06-27 12:44:00,420 - matplotlib.font_manager - WARNING - findfont: Generic family 'sans-serif' not found because none of the following families were found: Times New Roman
+2024-06-27 12:44:00,420 - matplotlib.font_manager - WARNING - findfont: Generic family 'sans-serif' not found because none of the following families were found: Times New Roman
+2024-06-27 12:44:00,421 - matplotlib.font_manager - WARNING - findfont: Generic family 'sans-serif' not found because none of the following families were found: Times New Roman
+2024-06-27 12:44:00,422 - matplotlib.font_manager - WARNING - findfont: Generic family 'sans-serif' not found because none of the following families were found: Times New Roman
+2024-06-27 12:44:00,424 - matplotlib.font_manager - WARNING - findfont: Generic family 'sans-serif' not found because none of the following families were found: Times New Roman
+2024-06-27 12:44:00,425 - matplotlib.font_manager - WARNING - findfont: Generic family 'sans-serif' not found because none of the following families were found: Times New Roman
+2024-06-27 12:44:00,427 - matplotlib.font_manager - WARNING - findfont: Generic family 'sans-serif' not found because none of the following families were found: Times New Roman
+2024-06-27 12:44:00,502 - matplotlib.font_manager - WARNING - findfont: Generic family 'sans-serif' not found because none of the following families were found: Times New Roman
+2024-06-27 12:44:00,503 - matplotlib.font_manager - WARNING - findfont: Generic family 'sans-serif' not found because none of the following families were found: Times New Roman
+2024-06-27 12:44:00,504 - matplotlib.font_manager - WARNING - findfont: Generic family 'sans-serif' not found because none of the following families were found: Times New Roman
+2024-06-27 12:44:00,506 - matplotlib.font_manager - WARNING - findfont: Generic family 'sans-serif' not found because none of the following families were found: Times New Roman
+2024-06-27 12:44:00,507 - matplotlib.font_manager - WARNING - findfont: Generic family 'sans-serif' not found because none of the following families were found: Times New Roman
+2024-06-27 12:44:00,507 - matplotlib.font_manager - WARNING - findfont: Generic family 'sans-serif' not found because none of the following families were found: Times New Roman
+2024-06-27 12:44:00,509 - matplotlib.font_manager - WARNING - findfont: Generic family 'sans-serif' not found because none of the following families were found: Times New Roman
+2024-06-27 12:44:00,511 - matplotlib.font_manager - WARNING - findfont: Generic family 'sans-serif' not found because none of the following families were found: Times New Roman
+2024-06-27 12:44:00,513 - matplotlib.font_manager - WARNING - findfont: Generic family 'sans-serif' not found because none of the following families were found: Times New Roman
+2024-06-27 12:44:00,514 - matplotlib.font_manager - WARNING - findfont: Generic family 'sans-serif' not found because none of the following families were found: Times New Roman
+2024-06-27 12:44:00,516 - matplotlib.font_manager - WARNING - findfont: Generic family 'sans-serif' not found because none of the following families were found: Times New Roman
+2024-06-27 12:44:00,523 - matplotlib.font_manager - WARNING - findfont: Generic family 'sans-serif' not found because none of the following families were found: Times New Roman
+2024-06-27 12:44:00,532 - matplotlib.font_manager - WARNING - findfont: Generic family 'sans-serif' not found because none of the following families were found: Times New Roman
+2024-06-27 12:44:00,534 - matplotlib.font_manager - WARNING - findfont: Generic family 'sans-serif' not found because none of the following families were found: Times New Roman
+2024-06-27 12:44:00,536 - matplotlib.font_manager - WARNING - findfont: Generic family 'sans-serif' not found because none of the following families were found: Times New Roman
+2024-06-27 12:44:00,537 - matplotlib.font_manager - WARNING - findfont: Generic family 'sans-serif' not found because none of the following families were found: Times New Roman
+2024-06-27 12:44:00,537 - matplotlib.font_manager - WARNING - findfont: Generic family 'sans-serif' not found because none of the following families were found: Times New Roman
+2024-06-27 12:44:00,538 - matplotlib.font_manager - WARNING - findfont: Generic family 'sans-serif' not found because none of the following families were found: Times New Roman
+2024-06-27 12:44:00,539 - matplotlib.font_manager - WARNING - findfont: Generic family 'sans-serif' not found because none of the following families were found: Times New Roman
+2024-06-27 12:44:00,541 - matplotlib.font_manager - WARNING - findfont: Generic family 'sans-serif' not found because none of the following families were found: Times New Roman
+2024-06-27 12:44:00,543 - matplotlib.font_manager - WARNING - findfont: Generic family 'sans-serif' not found because none of the following families were found: Times New Roman
+2024-06-27 12:44:00,544 - matplotlib.font_manager - WARNING - findfont: Generic family 'sans-serif' not found because none of the following families were found: Times New Roman
+2024-06-27 12:44:00,546 - matplotlib.font_manager - WARNING - findfont: Generic family 'sans-serif' not found because none of the following families were found: Times New Roman
+2024-06-27 12:44:00,547 - matplotlib.font_manager - WARNING - findfont: Generic family 'sans-serif' not found because none of the following families were found: Times New Roman
+2024-06-27 12:44:00,548 - matplotlib.font_manager - WARNING - findfont: Generic family 'sans-serif' not found because none of the following families were found: Times New Roman
+2024-06-27 12:44:00,555 - matplotlib.font_manager - WARNING - findfont: Generic family 'sans-serif' not found because none of the following families were found: Times New Roman
+2024-06-27 12:44:00,557 - matplotlib.font_manager - WARNING - findfont: Generic family 'sans-serif' not found because none of the following families were found: Times New Roman
+2024-06-27 12:44:00,562 - matplotlib.font_manager - WARNING - findfont: Generic family 'sans-serif' not found because none of the following families were found: Times New Roman
+2024-06-27 12:44:00,563 - matplotlib.font_manager - WARNING - findfont: Generic family 'sans-serif' not found because none of the following families were found: Times New Roman
+2024-06-27 12:44:00,565 - matplotlib.font_manager - WARNING - findfont: Generic family 'sans-serif' not found because none of the following families were found: Times New Roman
+2024-06-27 12:44:00,566 - matplotlib.font_manager - WARNING - findfont: Generic family 'sans-serif' not found because none of the following families were found: Times New Roman
+2024-06-27 12:44:00,567 - matplotlib.font_manager - WARNING - findfont: Generic family 'sans-serif' not found because none of the following families were found: Times New Roman
+2024-06-27 12:44:00,568 - matplotlib.font_manager - WARNING - findfont: Generic family 'sans-serif' not found because none of the following families were found: Times New Roman
+2024-06-27 12:44:00,569 - matplotlib.font_manager - WARNING - findfont: Generic family 'sans-serif' not found because none of the following families were found: Times New Roman
+2024-06-27 12:44:00,574 - matplotlib.font_manager - WARNING - findfont: Generic family 'sans-serif' not found because none of the following families were found: Times New Roman
+2024-06-27 12:44:00,579 - matplotlib.font_manager - WARNING - findfont: Generic family 'sans-serif' not found because none of the following families were found: Times New Roman
+2024-06-27 12:44:00,581 - matplotlib.font_manager - WARNING - findfont: Generic family 'sans-serif' not found because none of the following families were found: Times New Roman
+2024-06-27 12:44:00,582 - matplotlib.font_manager - WARNING - findfont: Generic family 'sans-serif' not found because none of the following families were found: Times New Roman
+2024-06-27 12:44:00,583 - matplotlib.font_manager - WARNING - findfont: Generic family 'sans-serif' not found because none of the following families were found: Times New Roman
+2024-06-27 12:44:00,585 - matplotlib.font_manager - WARNING - findfont: Generic family 'sans-serif' not found because none of the following families were found: Times New Roman
+2024-06-27 12:44:00,586 - matplotlib.font_manager - WARNING - findfont: Generic family 'sans-serif' not found because none of the following families were found: Times New Roman
+2024-06-27 12:44:00,587 - matplotlib.font_manager - WARNING - findfont: Generic family 'sans-serif' not found because none of the following families were found: Times New Roman
+2024-06-27 12:44:00,588 - matplotlib.font_manager - WARNING - findfont: Generic family 'sans-serif' not found because none of the following families were found: Times New Roman
+2024-06-27 12:44:00,589 - matplotlib.font_manager - WARNING - findfont: Generic family 'sans-serif' not found because none of the following families were found: Times New Roman
+2024-06-27 12:44:00,589 - matplotlib.font_manager - WARNING - findfont: Generic family 'sans-serif' not found because none of the following families were found: Times New Roman
+2024-06-27 12:44:00,591 - matplotlib.font_manager - WARNING - findfont: Generic family 'sans-serif' not found because none of the following families were found: Times New Roman
+2024-06-27 12:44:00,594 - matplotlib.font_manager - WARNING - findfont: Generic family 'sans-serif' not found because none of the following families were found: Times New Roman
+2024-06-27 12:44:00,596 - matplotlib.font_manager - WARNING - findfont: Generic family 'sans-serif' not found because none of the following families were found: Times New Roman
+2024-06-27 12:44:00,597 - matplotlib.font_manager - WARNING - findfont: Generic family 'sans-serif' not found because none of the following families were found: Times New Roman
+2024-06-27 12:44:00,598 - matplotlib.font_manager - WARNING - findfont: Generic family 'sans-serif' not found because none of the following families were found: Times New Roman
+2024-06-27 12:44:00,599 - matplotlib.font_manager - WARNING - findfont: Generic family 'sans-serif' not found because none of the following families were found: Times New Roman
+2024-06-27 12:44:00,600 - matplotlib.font_manager - WARNING - findfont: Generic family 'sans-serif' not found because none of the following families were found: Times New Roman
+2024-06-27 12:44:00,603 - matplotlib.font_manager - WARNING - findfont: Generic family 'sans-serif' not found because none of the following families were found: Times New Roman
+2024-06-27 12:44:00,606 - matplotlib.font_manager - WARNING - findfont: Generic family 'sans-serif' not found because none of the following families were found: Times New Roman
+2024-06-27 12:44:00,613 - matplotlib.font_manager - WARNING - findfont: Generic family 'sans-serif' not found because none of the following families were found: Times New Roman
+2024-06-27 12:44:00,615 - matplotlib.font_manager - WARNING - findfont: Generic family 'sans-serif' not found because none of the following families were found: Times New Roman
+2024-06-27 12:44:00,617 - matplotlib.font_manager - WARNING - findfont: Generic family 'sans-serif' not found because none of the following families were found: Times New Roman
+2024-06-27 12:44:00,619 - matplotlib.font_manager - WARNING - findfont: Generic family 'sans-serif' not found because none of the following families were found: Times New Roman
+2024-06-27 12:44:00,620 - matplotlib.font_manager - WARNING - findfont: Generic family 'sans-serif' not found because none of the following families were found: Times New Roman
+2024-06-27 12:44:00,623 - matplotlib.font_manager - WARNING - findfont: Generic family 'sans-serif' not found because none of the following families were found: Times New Roman
+2024-06-27 12:44:00,624 - matplotlib.font_manager - WARNING - findfont: Generic family 'sans-serif' not found because none of the following families were found: Times New Roman
+2024-06-27 12:44:00,626 - matplotlib.font_manager - WARNING - findfont: Generic family 'sans-serif' not found because none of the following families were found: Times New Roman
+2024-06-27 12:44:00,654 - root - INFO - remove_subway_list: ['地铁1号线', '地铁2号线', '地铁3号线', '地铁4号线', '地铁5号线', '地铁7号线', '地铁10号线']
+2024-06-27 12:51:25,158 - root - INFO - count, count_true: 257980, 0
+2024-06-27 12:51:25,955 - root - INFO - count, count_true: 261305, 0
+2024-06-27 12:51:33,053 - root - INFO - count, count_true: 267378, 0
+2024-06-27 12:51:42,180 - root - INFO - count, count_true: 273229, 506
+2024-06-27 12:51:43,647 - root - INFO - count, count_true: 279164, 4227
+2024-06-27 12:51:49,604 - root - INFO - count, count_true: 284113, 7503
+2024-06-27 12:51:55,950 - root - INFO - count, count_true: 289581, 8848
+2024-06-27 12:52:00,490 - root - INFO - count, count_true: 295210, 10666
+2024-06-27 13:00:45,992 - root - INFO - count, count_true: 267378, 508
+2024-06-27 13:01:28,527 - root - INFO - count, count_true: 300562, 35864
+2024-06-27 13:01:36,599 - root - INFO - count, count_true: 273229, 4119
+2024-06-27 13:01:43,213 - root - INFO - count, count_true: 305169, 56912
+2024-06-27 13:01:49,917 - root - INFO - count, count_true: 279164, 7427
+2024-06-27 13:02:08,206 - root - INFO - count, count_true: 284113, 7503
+2024-06-27 13:06:22,075 - root - INFO - count, count_true: 295210, 24393
+2024-06-27 13:06:54,370 - root - INFO - count, count_true: 289581, 10494
+2024-06-27 13:14:14,842 - root - INFO - count, count_true: 310154, 95543
+2024-06-27 13:14:28,829 - root - INFO - count, count_true: 300562, 35927
+2024-06-27 13:14:33,784 - root - INFO - count, count_true: 310154, 157352
+2024-06-27 13:14:41,525 - root - INFO - count, count_true: 310154, 157352
+2024-06-27 13:14:44,247 - root - INFO - count, count_true: 310154, 157352
+2024-06-27 13:16:40,118 - root - INFO - count, count_true: 295210, 24579
+2024-06-27 13:26:59,293 - root - INFO - count, count_true: 310154, 96787
+2024-06-27 13:41:30,099 - root - INFO - count, count_true: 273229, 39
+2024-06-27 13:41:35,155 - root - INFO - count, count_true: 257980, 25
+2024-06-27 13:41:46,913 - root - INFO - count, count_true: 267378, 25
+2024-06-27 13:41:49,990 - root - INFO - count, count_true: 261305, 25
+2024-06-27 13:42:08,048 - root - INFO - count, count_true: 284113, 52
+2024-06-27 13:42:27,395 - root - INFO - count, count_true: 279164, 51
+2024-06-27 13:44:07,046 - root - INFO - count, count_true: 289581, 595
+2024-06-27 13:44:38,949 - root - INFO - count, count_true: 295210, 1218
+2024-06-27 13:49:13,974 - root - INFO - count, count_true: 273229, 50
+2024-06-27 13:49:15,653 - root - INFO - count, count_true: 267378, 39
+2024-06-27 13:49:55,661 - root - INFO - count, count_true: 300562, 22988
+2024-06-27 13:50:07,736 - root - INFO - count, count_true: 284113, 96
+2024-06-27 13:50:33,651 - root - INFO - count, count_true: 305169, 44319
+2024-06-27 13:50:36,167 - root - INFO - count, count_true: 279164, 52
+2024-06-27 13:51:31,715 - root - INFO - count, count_true: 289581, 1215
+2024-06-27 13:55:49,372 - root - INFO - count, count_true: 295210, 14211
+2024-06-27 13:57:54,254 - root - INFO - count, count_true: 310154, 80441
+2024-06-27 13:58:15,449 - root - INFO - count, count_true: 310154, 144495
+2024-06-27 13:59:17,416 - root - INFO - count, count_true: 300562, 25252
+2024-06-27 14:00:15,264 - root - INFO - count, count_true: 310154, 144495
+2024-06-27 14:01:25,320 - root - INFO - count, count_true: 310154, 144495
+2024-06-27 14:05:48,007 - root - INFO - count, count_true: 295210, 14398
+2024-06-27 14:07:19,714 - root - INFO - count, count_true: 310154, 81922
+2024-06-27 14:21:57,887 - root - INFO - count, count_true: 257980, 25
+2024-06-27 14:22:36,467 - root - INFO - count, count_true: 267378, 25
+2024-06-27 14:22:46,419 - root - INFO - count, count_true: 279164, 4584
+2024-06-27 14:23:10,865 - root - INFO - count, count_true: 284113, 7993
+2024-06-27 14:23:43,729 - root - INFO - count, count_true: 289581, 9486
+2024-06-27 14:23:45,567 - root - INFO - count, count_true: 261305, 25
+2024-06-27 14:24:14,625 - root - INFO - count, count_true: 295210, 10272
+2024-06-27 14:26:10,416 - root - INFO - count, count_true: 273229, 625
+2024-06-27 14:35:33,151 - root - INFO - count, count_true: 267378, 625
+2024-06-27 14:36:11,571 - root - INFO - count, count_true: 279164, 7921
+2024-06-27 14:36:28,799 - root - INFO - count, count_true: 300562, 35113
+2024-06-27 14:36:39,399 - root - INFO - count, count_true: 284113, 8076
+2024-06-27 14:39:37,686 - root - INFO - count, count_true: 273229, 4473
+2024-06-27 14:44:54,023 - root - INFO - count, count_true: 295210, 23849
+2024-06-27 14:46:32,074 - root - INFO - count, count_true: 289581, 10108
+2024-06-27 14:47:39,563 - root - INFO - count, count_true: 305169, 41104
+2024-06-27 14:51:07,931 - root - INFO - count, count_true: 310154, 75296
+2024-06-27 14:51:30,317 - root - INFO - count, count_true: 310154, 136976
+2024-06-27 14:51:45,086 - root - INFO - count, count_true: 300562, 37875
+2024-06-27 14:51:47,557 - root - INFO - count, count_true: 310154, 136976
+2024-06-27 14:53:11,579 - root - INFO - count, count_true: 310154, 136976
+2024-06-27 14:59:39,908 - root - INFO - count, count_true: 295210, 23885
+2024-06-27 15:03:12,127 - root - INFO - count, count_true: 310154, 76904
+2024-06-27 15:17:32,852 - root - INFO - count, count_true: 273229, 625
+2024-06-27 15:17:59,793 - root - INFO - count, count_true: 257980, 25
+2024-06-27 15:18:04,875 - root - INFO - count, count_true: 267378, 25
+2024-06-27 15:18:05,026 - root - INFO - count, count_true: 261305, 25
+2024-06-27 15:18:08,618 - root - INFO - count, count_true: 284113, 7993
+2024-06-27 15:18:11,940 - root - INFO - count, count_true: 279164, 4584
+2024-06-27 15:18:42,262 - root - INFO - count, count_true: 289581, 8379
+2024-06-27 15:19:05,974 - root - INFO - count, count_true: 295210, 10030
+2024-06-27 15:28:23,119 - root - INFO - count, count_true: 273229, 4473
+2024-06-27 15:30:41,812 - root - INFO - count, count_true: 267378, 625
+2024-06-27 15:30:50,089 - root - INFO - count, count_true: 305169, 40541
+2024-06-27 15:31:27,248 - root - INFO - count, count_true: 284113, 8076
+2024-06-27 15:31:29,284 - root - INFO - count, count_true: 279164, 7921
+2024-06-27 15:31:44,056 - root - INFO - count, count_true: 300562, 19022
+2024-06-27 15:31:48,713 - root - INFO - count, count_true: 289581, 9876
+2024-06-27 15:34:15,821 - root - INFO - count, count_true: 295210, 10658
+2024-06-27 15:41:26,687 - root - INFO - count, count_true: 310154, 75592
+2024-06-27 15:42:13,028 - root - INFO - count, count_true: 310154, 133385
+2024-06-27 15:42:25,916 - root - INFO - count, count_true: 310154, 133385
+2024-06-27 15:45:42,288 - root - INFO - count, count_true: 310154, 133385
+2024-06-27 15:45:46,988 - root - INFO - count, count_true: 300562, 21204
+2024-06-27 15:46:05,851 - root - INFO - count, count_true: 295210, 10832
+2024-06-27 16:07:44,703 - root - INFO - count, count_true: 310154, 77189
+2024-06-27 16:20:33,519 - root - INFO - count, count_true: 267378, 25
+2024-06-27 16:21:08,233 - root - INFO - count, count_true: 273229, 625
+2024-06-27 16:21:13,135 - root - INFO - count, count_true: 261305, 25
+2024-06-27 16:21:23,267 - root - INFO - count, count_true: 279164, 4584
+2024-06-27 16:21:34,681 - root - INFO - count, count_true: 284113, 7993
+2024-06-27 16:21:55,414 - root - INFO - count, count_true: 257980, 25
+2024-06-27 16:25:02,220 - root - INFO - count, count_true: 295210, 11290
+2024-06-27 16:25:07,912 - root - INFO - count, count_true: 289581, 9486
+2024-06-27 16:31:09,517 - root - INFO - count, count_true: 267378, 625
+2024-06-27 16:32:19,196 - root - INFO - count, count_true: 273229, 4473
+2024-06-27 16:32:33,462 - root - INFO - count, count_true: 279164, 7921
+2024-06-27 16:34:28,588 - root - INFO - count, count_true: 300562, 37046
+2024-06-27 16:36:29,486 - root - INFO - count, count_true: 284113, 8076
+2024-06-27 16:37:05,490 - root - INFO - count, count_true: 289581, 11116
+2024-06-27 16:38:34,310 - root - INFO - count, count_true: 305169, 61022
+2024-06-27 16:40:01,892 - root - INFO - count, count_true: 295210, 25580
+2024-06-27 16:43:24,050 - root - INFO - count, count_true: 310154, 89152
+2024-06-27 16:44:57,638 - root - INFO - count, count_true: 310154, 149940
+2024-06-27 16:45:51,996 - root - INFO - count, count_true: 310154, 149940
+2024-06-27 16:48:29,164 - root - INFO - count, count_true: 300562, 39593
+2024-06-27 16:50:26,774 - root - INFO - count, count_true: 310154, 149940
+2024-06-27 16:50:37,373 - root - INFO - count, count_true: 295210, 25785
+2024-06-27 17:01:01,233 - root - INFO - count, count_true: 310154, 90820
+2024-06-27 17:15:43,056 - root - INFO - count, count_true: 289581, 9486
+2024-06-27 17:16:18,678 - root - INFO - count, count_true: 284113, 7993
+2024-06-27 17:19:57,132 - root - INFO - count, count_true: 273229, 625
+2024-06-27 17:21:46,835 - root - INFO - count, count_true: 295210, 11290
+2024-06-27 17:22:40,886 - root - INFO - count, count_true: 257980, 25
+2024-06-27 17:24:07,762 - root - INFO - count, count_true: 261305, 25
+2024-06-27 17:24:40,552 - root - INFO - count, count_true: 267378, 25
+2024-06-27 17:28:20,018 - root - INFO - count, count_true: 279164, 4584
+2024-06-27 17:28:56,501 - root - INFO - count, count_true: 289581, 11116
+2024-06-27 17:29:12,007 - root - INFO - count, count_true: 284113, 8076
+2024-06-27 17:31:31,318 - root - INFO - count, count_true: 273229, 4473
+2024-06-27 17:33:31,198 - root - INFO - count, count_true: 295210, 25580
+2024-06-27 17:35:19,933 - root - INFO - count, count_true: 267378, 625
+2024-06-27 17:38:38,690 - root - INFO - count, count_true: 300562, 28861
+2024-06-27 17:43:10,202 - root - INFO - count, count_true: 305169, 51009
+2024-06-27 17:44:54,411 - root - INFO - count, count_true: 310154, 152394
+2024-06-27 17:45:39,751 - root - INFO - count, count_true: 310154, 85156
+2024-06-27 17:45:40,613 - root - INFO - count, count_true: 279164, 7921
+2024-06-27 17:46:50,007 - root - INFO - count, count_true: 310154, 152394
+2024-06-27 17:47:48,034 - root - INFO - count, count_true: 310154, 152394
+2024-06-27 17:47:51,546 - root - INFO - count, count_true: 295210, 25785
+2024-06-27 17:49:29,397 - root - INFO - count, count_true: 300562, 31292
+2024-06-27 17:55:53,499 - root - INFO - count, count_true: 310154, 86425
+2024-06-27 18:07:42,111 - root - INFO - count, count_true: 261305, 25
+2024-06-27 18:08:05,137 - root - INFO - count, count_true: 257980, 25
+2024-06-27 18:08:06,930 - root - INFO - count, count_true: 284113, 7993
+2024-06-27 18:08:10,993 - root - INFO - count, count_true: 295210, 11290
+2024-06-27 18:08:20,633 - root - INFO - count, count_true: 273229, 625
+2024-06-27 18:08:22,666 - root - INFO - count, count_true: 279164, 4584
+2024-06-27 18:08:24,222 - root - INFO - count, count_true: 267378, 25
+2024-06-27 18:08:56,479 - root - INFO - count, count_true: 289581, 9486
+2024-06-27 18:17:52,645 - root - INFO - count, count_true: 300562, 36407
+2024-06-27 18:18:17,169 - root - INFO - count, count_true: 305169, 60068
+2024-06-27 18:18:18,077 - root - INFO - count, count_true: 284113, 8076
+2024-06-27 18:18:19,115 - root - INFO - count, count_true: 295210, 25580
+2024-06-27 18:18:19,125 - root - INFO - count, count_true: 279164, 7921
+2024-06-27 18:18:36,304 - root - INFO - count, count_true: 267378, 625
+2024-06-27 18:18:55,566 - root - INFO - count, count_true: 273229, 4473
+2024-06-27 18:19:00,668 - root - INFO - count, count_true: 289581, 11116
+2024-06-27 18:26:19,010 - root - INFO - count, count_true: 300562, 38956
+2024-06-27 18:26:51,223 - root - INFO - count, count_true: 295210, 25612
+2024-06-27 18:26:53,472 - root - INFO - count, count_true: 310154, 75595
+2024-06-27 18:27:08,095 - root - INFO - count, count_true: 310154, 135219
+2024-06-27 18:27:58,118 - root - INFO - count, count_true: 310154, 135219
+2024-06-27 18:33:13,464 - root - INFO - count, count_true: 310154, 135219
+2024-06-27 18:37:01,681 - root - INFO - count, count_true: 310154, 77226
+2024-06-27 18:39:33,672 - root - INFO - line 地铁1号线
+2024-06-27 18:39:33,673 - root - INFO - year2construction{2010: {9: 1250538.90805}, 2011: {}, 2012: {}, 2013: {}, 2014: {}, 2015: {7: 368872.96765}, 2016: {}, 2017: {}, 2018: {3: 992871.7698500002}, 2019: {}, 2020: {}, 2021: {}, 2022: {}, 2023: {}}
+2024-06-27 18:39:33,674 - root - INFO - total_construction2612283.64555
+2024-06-27 18:39:33,688 - root - INFO - year2ope{2010: {9: 11    158.980515
+Name: per_mileage_carbon (tCO2/km), dtype: float64}, 2011: {}, 2012: {}, 2013: {}, 2014: {}, 2015: {7: 11    207.608464
+Name: per_mileage_carbon (tCO2/km), dtype: float64}, 2016: {}, 2017: {}, 2018: {3: 11    361.408278
+Name: per_mileage_carbon (tCO2/km), dtype: float64}, 2019: {}, 2020: {}, 2021: {}, 2022: {}, 2023: {}}
+2024-06-27 18:39:33,689 - root - INFO - carbon_save_list{2010: {'(10, 11, 12)': 42.79857762041383}, 2011: {'(1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12)': 44.15040444464671}, 2012: {'(1, 2, 3, 4, 5, 6, 7, 8, 9)': 45.3496967405972, '(10, 11, 12)': 78.49391164192046}, 2013: {'(1, 2, 3, 4, 5, 6)': 79.66925471539118, '(7, 8, 9, 10, 11, 12)': 93.05657611935455}, 2014: {'(1, 2, 3, 4, 5, 6, 7, 8, 9, 10)': 95.18693627802007, '(11, 12)': 124.63053603174512}, 2015: {'(1, 2, 3, 4, 5, 6, 7)': 127.84964541548915, '(8, 9, 10, 11, 12)': 183.93225731975144}, 2016: {'(1, 2, 3, 4, 5, 6, 7)': 189.77297054117872, '(8, 9, 10, 11, 12)': 198.14570950587097}, 2017: {'(1, 2, 3, 4, 5, 6)': 201.63530781622825, '(7, 8, 9)': 229.39261265271463, '(10, 11, 12)': 232.9964890896854}, 2018: {'(1, 2, 3)': 238.49700964125978, '(4, 5, 6, 7, 8, 9, 10, 11, 12)': 455.59807249423534}, 2019: {'(1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12)': 506.57785127380095}, 2020: {'(1, 2, 3, 4, 5, 6, 7, 8, 9)': 488.5781134147839, '(10, 11, 12)': 472.58516913004223}, 2021: {'(1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12)': 439.48634466778265}, 2022: {'(1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12)': 439.48634466778265}, 2023: {'(1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12)': 439.48634466778265}}
+2024-06-27 19:19:41,440 - root - INFO - City: Chengdu
+2024-06-27 19:19:41,563 - root - INFO - Parking fee: 20
+2024-06-27 19:38:46,261 - root - INFO - count, count_true: 267378, 0
+2024-06-27 19:38:54,978 - root - INFO - count, count_true: 261305, 0
+2024-06-27 19:39:17,939 - root - INFO - count, count_true: 284113, 0
+2024-06-27 19:39:38,103 - root - INFO - count, count_true: 273229, 0
+2024-06-27 19:39:46,640 - root - INFO - count, count_true: 289581, 0
+2024-06-27 19:39:51,897 - root - INFO - count, count_true: 295210, 0
+2024-06-27 19:40:13,617 - root - INFO - count, count_true: 257980, 0
+2024-06-27 19:40:47,535 - root - INFO - count, count_true: 279164, 0
+2024-06-27 19:47:04,011 - root - INFO - count, count_true: 310154, 0
+2024-06-27 19:47:08,327 - root - INFO - count, count_true: 305169, 0
+2024-06-27 19:47:20,305 - root - INFO - count, count_true: 310154, 0
+2024-06-27 19:47:25,534 - root - INFO - count, count_true: 300562, 0
+2024-06-27 19:47:48,005 - root - INFO - count, count_true: 310154, 0
+2024-06-27 19:48:22,461 - root - INFO - count, count_true: 310154, 0

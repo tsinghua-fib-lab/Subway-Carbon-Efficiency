@@ -1,0 +1,24 @@
+2024-06-28 15:25:51,757 - root - INFO - City: Nanchang
+2024-06-28 15:25:51,757 - root - INFO - Parking fee: 20
+2024-06-28 15:26:48,610 - root - INFO - Year: 2019, Month: 6
+2024-06-28 15:27:45,439 - root - INFO - remove_subway_list: ['地铁1号线', '地铁2号线']
+2024-06-28 15:28:57,624 - root - INFO - count, count_true: 90919, 976
+2024-06-28 15:28:58,580 - root - INFO - count, count_true: 91784, 20795
+2024-06-28 15:29:03,353 - root - INFO - count, count_true: 89776, 951
+2024-06-28 15:29:14,994 - root - INFO - count, count_true: 87767, 0
+2024-06-28 15:29:16,067 - root - INFO - count, count_true: 91784, 30729
+2024-06-28 15:29:17,367 - root - INFO - count, count_true: 88940, 0
+2024-06-28 15:29:17,400 - root - INFO - count, count_true: 91784, 4532
+2024-06-28 15:29:20,970 - root - INFO - count, count_true: 91784, 30729
+2024-06-28 15:31:26,407 - root - INFO - count, count_true: 90919, 4485
+2024-06-28 15:31:48,659 - root - INFO - count, count_true: 88940, 939
+2024-06-28 15:34:33,563 - root - INFO - count, count_true: 88940, 5181
+2024-06-28 15:34:34,227 - root - INFO - count, count_true: 87767, 5116
+2024-06-28 15:34:38,285 - root - INFO - count, count_true: 91784, 6142
+2024-06-28 15:34:39,058 - root - INFO - count, count_true: 90919, 5461
+2024-06-28 15:34:40,408 - root - INFO - count, count_true: 91784, 21299
+2024-06-28 15:34:41,532 - root - INFO - count, count_true: 91784, 33047
+2024-06-28 15:34:41,972 - root - INFO - count, count_true: 89776, 5441
+2024-06-28 15:34:45,141 - root - INFO - count, count_true: 91784, 33047
+2024-06-28 15:37:41,083 - root - INFO - count, count_true: 90919, 6088
+2024-06-28 15:37:46,766 - root - INFO - count, count_true: 88940, 5374
